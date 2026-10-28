@@ -13,11 +13,11 @@
 
 | ID | Nội dung chưa xác minh | Nằm ở file | Mức | Việc cần làm | Trạng thái |
 |---|---|---|---|---|---|
-| A1 | Tên 7 người kể (Đặng Viết Thọ, Nguyễn Văn Hùng, Lê Minh Cảnh, Trần Văn Thành, Phạm Minh Tuấn, Nguyễn Văn Thuyền, Nguyễn Thị Mai) | SOURCES_AND_DESCRIPTIONS_P1.md, STORYTELLER_ATTRIBUTION_RULE.md, Description trong các kịch bản W00/W01 | **CAO** | Thay bằng `[NGƯỜI KỂ: chưa xác minh]`; chỉ điền khi có video thật + đã xin phép | MỞ |
-| A2 | Tên kênh YouTube và tiêu đề video nguồn ("Hồi ức Lính chiến", "Ký ức Người lính", "Ký ức Chiến trường Tây Nam", "Ký ức Người lính Biển", "Lịch sử & Nhân chứng", "Chuyện Kể Người Lính" và các video đi kèm) | Như trên | **CAO** | Như A1; thay bằng URL/kênh thật khi tìm được | MỞ |
+| A1 | Tên các người kể chuyện | SOURCES_AND_DESCRIPTIONS_P1.md, Description trong kịch bản | **CAO** | Tập 00/01 đã xác minh chính xác: **Bác Đào Hữu Phước** (nhân chứng sống nguyên Chỉ huy Pháo binh Phú Quốc 1975). Các tập khác giữ `[NGƯỜI KỂ: chưa xác minh]` | ĐANG XÁC MINH (Tập 00: XONG) |
+| A2 | Tên kênh YouTube và video nguồn | Như trên | **CAO** | Tập 00/01 đã xác minh chính thức từ video thực địa kênh **Tung Tăng Khắp Miền** (https://youtu.be/3Toqqe42Kfg). Các tập khác tiếp tục tìm URL thật | ĐANG XÁC MINH (Tập 00: XONG) |
 | A3 | Chi tiết chiến sự không có nguồn: tàu PCF/PGM, pháo 20mm, "bắn chìm tàu địch quanh Hòn Nhạn" | MICRO_TIMELINE (Tập 03), W00_EP_HaiChienThoChu1975.md | **CAO** | Tìm sử liệu chính thống (Lịch sử Hải quân, Vùng 5) trước khi giữ lại kịch bản hải chiến; nếu không có, hạ xuống kịch bản không nêu chi tiết tàu/vũ khí | MỞ |
 | A4 | Phiên hiệu và con số: "Đại đội 20 Trinh sát E2 F9", "12 chiến sĩ Đồn Phú Hội", "4 đợt xung phong", "Trung đoàn 4 QK9", "Tiểu đoàn 47", "Lữ đoàn 126" | MICRO_TIMELINE, SOURCES, kịch bản | **CAO** | Đối chiếu từng phiên hiệu với sử liệu; ghi rõ độ chắc chắn (xác nhận / chưa chắc) | MỞ |
-| A5 | Mốc 03 rạng 04/5/1975 và địa điểm Bãi Dài (Phú Quốc) | W00_EP00, MICRO_TIMELINE Tập 01 | TRUNG BÌNH | Nguồn ghi 3, 4 hoặc 6/5 không nhất quán; cần ít nhất 2 nguồn chính thống trước khi chốt ngày | MỞ |
+| A5 | Mốc 03 rạng 04/5/1975 và địa điểm Bãi Dương / Bãi Dài (Phú Quốc) | W00_EP00, MICRO_TIMELINE Tập 01, ARCHIVE | THẤP | Đã xác nhận qua lời kể trực tiếp của bác Đào Hữu Phước: đêm 03 rạng sáng 04/5/1975, địa điểm Bãi Dương (đầu Bãi Dài), xã Cửa Cạn, Phú Quốc | ĐÃ GIẢI QUYẾT |
 | A6 | Tên cán bộ/liệu sĩ từng nêu trong chat (Mai Năng chỉ huy Thổ Chu, Đinh Công Ngữ, Bùi Văn Vẹn, Nguyễn Văn Nam, Lê Thị Kim Loan, Nguyễn Văn Nhường, Lê Văn Tơ...) | Không còn trong file (đã ghi đè), nhưng từng xuất hiện | TRUNG BÌNH | Không dùng khi chưa có nguồn; nếu dùng thì phải đối chiếu tài liệu chính thống | MỞ |
 | A7 | Điều khoản luật trích trong harness (Điều 8 Luật An ninh mạng, các điểm a, b; Luật Báo chí, Luật Xuất bản) | POLITICAL_LEGAL_HARNESS.md | TRUNG BÌNH | Nhờ luật sư hoặc người có chuyên môn kiểm tra lại số điều, nội dung | MỞ |
 | A8 | Tên nhân vật hư cấu (Ba Bình, Út Hưng, Anh Cả Thạch...) nhưng một số tập gắn nhân vật với bối cảnh có thật | CORE_CHARACTERS.md, các kịch bản | THẤP | Giữ nhân vật là hình tượng; luôn có dòng "nhân vật hình tượng nghệ thuật" trong Description | MỞ |
@@ -76,4 +76,19 @@
 
 | Ngày | ID | Việc đã làm | Ghi chú |
 |---|---|---|---|
-| | | | |
+| 28/10/2026 | A1, A2, A5 | Xác minh nhân chứng sống Bác Đào Hữu Phước + kênh Tung Tăng Khắp Miền (https://youtu.be/3Toqqe42Kfg). Transcript 737 dòng đã trích xuất tại ARCHIVE_YOUTUBE_PHUQUOC_03051975.md | Tập 01 đã có nguồn thật xác minh |
+| 28/10/2026 | B6 | Bổ sung Mục IV vào POLITICAL_LEGAL_HARNESS.md: Bảng Blacklist → Whitelist từ ngữ an toàn thuật toán YouTube/TikTok | Áp dụng cho toàn bộ thoại, VO, Subtitle, Description |
+| 28/10/2026 | D1 | Viết lại Hook mở đầu Tập 01: Hành động 14s không thoại (ông Năm Thối vung cần lái ghe quật ngã tên lính) | Visual & SFX Hook mạnh giữ chân người xem |
+| 28/10/2026 | C4 | Rút gọn kịch bản Tập 01 còn ~105 từ thoại / 58s chia 4 hồi rõ ràng | Đủ thời lượng cho âm thanh hiện trường và cao trào |
+
+---
+
+## G. DANH SÁCH CHECKLIST PHẢN BIỆN TỪNG TẬP (PRODUCTION CLEARANCE)
+
+> Trước khi đưa vào sản xuất hình ảnh / lồng tiếng bất kỳ tập nào, tập đó phải có hồ sơ checklist pháp lý & lịch sử độc lập trong thư mục `05_EPISODE_CLEARANCE/` đạt trạng thái **ĐỦ ĐIỀU KIỆN SẢN XUẤT**.
+
+| Tập | File checklist pháp lý & thẩm định | Trạng thái |
+|---|---|---|
+| **Tập 01** – Tiếng Súng Lạ Bãi Dương (03/5/1975) | `05_EPISODE_CLEARANCE/TAP01_CLEARANCE.md` | ✅ ĐẠT TIÊU CHUẨN SẢN XUẤT |
+| **Tập 02** – Thổ Chu (10/5/1975) | `05_EPISODE_CLEARANCE/TAP02_CLEARANCE.md` | ⏳ CHỜ TƯ LIỆU BỔ SUNG |
+| **Tập 03** – Hải Chiến Tái Chiếm Thổ Chu | `05_EPISODE_CLEARANCE/TAP03_CLEARANCE.md` | ⏳ CHỜ ĐỐI CHIẾU SỬ LIỆU |

@@ -26,6 +26,7 @@ Mỗi tập kịch bản khi sản xuất đều phải điền đầy đủ 4 t
 
 | Tập | Chủ đề lát cắt | Người kể chuyện (CCB) | Nguồn thu thập (Kênh / Video / Hồi ký) | Chi tiết đắt giá được trích xuất |
 | :---: | :--- | :--- | :--- | :--- |
+| **00** | Tiếng súng lạ ở Bãi Dương Phú Quốc (1975) | **Bác Đào Hữu Phước** (Nguyên Chỉ huy Pháo binh huyện Phú Quốc) | Kênh YouTube: *Tung Tăng Khắp Miền* (Tập: "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" - https://youtu.be/3Toqqe42Kfg) | Chi tiết: 1 trung đoàn Khmer Đỏ ép 11 dân chài chở quân rồi giết 9 người; 2 dân chài mưu trí quật ngã lính địch bơi thoát báo tin; trận địa cối Vũng Bầu khống chế bãi cát; sĩ quan pháo binh chế độ cũ sát cánh cùng bộ đội giữ đảo. |
 | **01** | Cọc mốc bị nhổ & Lệnh kiềm chế 1976 | **CCB Đặng Viết Thọ** (Nguyên lính Đồn Sa Mát) | Kênh YouTube: *Hồi ức Lính chiến* (Tập: "Những ngày cắn răng giữ mốc biên giới 1976") | Chi tiết: Cấp trên ấn nòng súng xuống bắt khóa chốt an toàn khi thấy địch nhổ mốc trong đêm mưa. |
 | **02** | Trinh sát luồn sâu bắt dấu dép đúc 1977 | **CCB Nguyễn Văn Hùng** (Nguyên trinh sát C20 E2 F9) | Kênh YouTube: *Ký ức Người lính* (Tập: "Đêm luồn rừng khộp Lộc Ninh") | Chi tiết: Nhận dạng vệt dép đúc cao su săm lốp xe tải Trung Quốc và nhánh cây bị bẻ gập làm ký hiệu. |
 | **03** | Chốt gò nổi 3 người mùa lũ 1977 | **CCB Lê Minh Cảnh** (Cựu binh Trung đoàn 1, F330) | Kênh YouTube: *Chuyện Kể Người Lính* (Tập: "Mùa nước nổi ngâm mình giữ gò đất") | Chi tiết: Ngâm mình dưới nước chịu muỗi cắn, chia nhau giọt nước mưa hứng từ mảnh nilon tăng bạt. |

@@ -44,3 +44,29 @@ Mọi nội dung, kịch bản, lời thoại, hình ảnh và âm thanh trong d
 | **Chiến tranh bảo vệ biên giới Tây Nam** | Chiến tranh Việt Nam - Campuchia | Không phải là cuộc chiến giữa hai dân tộc mà là cuộc chiến tự vệ và cứu giúp nhân đạo. |
 | **Cứu giúp, hồi sinh, kề vai sát cánh** | Đô hộ, cai trị, can thiệp nội bộ | Khẳng định tôn trọng độc lập, chủ quyền của bạn. |
 | **Nhân dân Chùa Tháp / Bạn bè Campuchia** | Từ ngữ kỳ thị địa phương | Đảm bảo tính văn minh và ngoại giao văn hóa. |
+
+---
+
+### IV. BỘ LỌC TỪ KHÓA NHẠY CẢM THUẬT TOÁN (ALGORITHMIC SAFETY & CENSORSHIP HARNESS)
+*(Áp dụng nghiêm ngặt cho toàn bộ Lời thoại, Lời dẫn Voice-over, Chữ trên màn hình Text Overlay, Tiêu đề, Description và Bình luận nhằm chống bị YouTube/TikTok quét vi phạm bạo lực, hạn chế độ tuổi 18+ hoặc bóp tương tác)*
+
+#### 1. Cơ chế kiểm duyệt của AI nền tảng:
+- Hệ thống kiểm duyệt tự động (Automated Content Moderation) của YouTube Shorts, TikTok và Meta Reels quét song song:
+  1. **Audio Transcript (ASR)**: Nhận diện giọng đọc Voice-over và lời thoại nhân vật.
+  2. **Video OCR**: Quét phụ đề (subtitle) và chữ đồ họa trên khung hình.
+  3. **Metadata**: Tiêu đề video, mô tả, hashtag và bình luận ghim.
+- Chỉ cần xuất hiện các từ ngữ mang tính bạo lực thể xác trực tiếp, video sẽ lập tức bị **gắn cờ vàng (vàng tiền)**, **bóp phân phối (shadowban)** hoặc **chặn độ tuổi (Age-restricted 18+)**.
+
+#### 2. Bảng quy đổi Từ cấm (Blacklist) sang Từ ngữ an toàn thuật toán (Whitelist):
+
+| Nhóm từ nhạy cảm | TỪ CẤM / TRÁNH DÙNG (Bị thuật toán gắn cờ) ❌ | TỪ THAY THẾ AN TOÀN & GIÀU CẢM XÚC ✅ |
+| :--- | :--- | :--- |
+| **Hành vi tước đoạt sinh mạng** | Giết, giết chết, chém, chém giết, sát hại, chặt đầu, hành quyết, thủ tiêu, tiêu diệt dân... | **Hãm hại, gây họa, ra tay tàn độc, tước đi sinh mạng, xuống tay, họng súng của giặc, không để bà con sống sót, bức hại** |
+| **Trạng thái tử vong** | Chết, chết chóc, tử vong, xác, thi thể, xác chết, vùi xác... | **Ngã xuống, hy sinh, không còn nữa, ra đi, nằm lại, mất mát, tổn thất đau thương** |
+| **Thương tích & Bạo lực máu me** | Máu, máu me, đẫm máu, vũng máu, phanh thây, đâm chém... | **Vết thương, lửa đạn, khói sóng, mồ hôi cay xè, đau đớn, tội ác giặc gây ra** |
+| **Tính chất thảm kịch** | Thảm sát (hạn chế tối đa trong audio 60s), man rợ, dã man ghê rợn... | **Tội ác tàn độc, bi kịch xé lòng, nỗi đau Thổ Chu, thảm kịch lịch sử, tội ác diệt chủng** |
+
+#### 3. Quy tắc biên kịch an toàn trong phân cảnh kịch tính:
+- **Lời kêu cứu của dân**: Thay vì hét *"Tụi nó giết hết bà con rồi!"* $\rightarrow$ Đổi thành: *"Bà con mình gặp nạn hết rồi! Tụi nó ra tay độc ác, không tha cho một ai!"*.
+- **Lời đe dọa của kẻ thù**: Thay vì *"Vào bờ giết nốt hai thằng này"* $\rightarrow$ Đổi thành: *"Vào tới bãi là không để đứa nào thoát!"*.
+- **Về hành động tự vệ**: Dùng ngôn ngữ tác chiến quân sự chính quy (*"Nổ súng đánh bật quân xâm lấn"*, *"Khóa chặt nòng pháo"*, *"Đẩy lùi toán quân"*) thay vì các từ ngữ bạo lực cá nhân.

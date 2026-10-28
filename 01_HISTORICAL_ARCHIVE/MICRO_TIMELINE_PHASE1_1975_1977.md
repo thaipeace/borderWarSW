@@ -7,11 +7,14 @@
 ### PHÂN ĐOẠN 1.1: NHỮNG TIẾNG SÚNG LẠ SAU NGÀY 30/4/1975 (TẬP 01 - 08)
 *Chủ đề: Đất nước vừa thống nhất, tiếng cười hòa bình chưa dứt thì nơi hải đảo Tây Nam đã vương khói súng.*
 
-- **Tập 01 (Đêm 03 rạng sáng 04/5/1975) - "Tiếng súng lạ ở Bãi Dài (Phú Quốc)"**:
-  - *Bối cảnh*: Chỉ 3 ngày sau ngày giải phóng 30/4/1975, cờ đỏ sao vàng vừa bay rợp trời đảo ngọc Phú Quốc thì nửa đêm, toán quân Khmer Đỏ dùng xuồng vũ trang bất ngờ đổ bộ lên Bãi Dài (Bãi Dương) toan đánh úp, chiếm đảo.
-  - *Chi tiết*: Người chiến sĩ quân giải phóng vừa tiếp quản đồn bốt cũ của đối phương, trên tay vẫn cầm bức thư mẹ gửi chưa kịp đọc. Nghe tiếng sóng vỗ gấp gáp và tiếng lách cách lên đạn lạ bên mép nước, anh lập tức nổ súng cảnh cáo, tổ chức đánh trả kiên quyết đập tan âm mưu đổ bộ chiếm đảo của địch.
-  - *Nguồn sử liệu & Ký ức*: *Lịch sử Đảng bộ và Quân dân huyện Phú Quốc*; Lịch sử Lực lượng vũ trang tỉnh Kiên Giang; Hồi ức bộ đội tiếp quản đảo Phú Quốc tháng 5/1975.
-  - *Ý nghĩa lịch sử*: Sự kiện đầu tiên vạch trần dã tâm phản bội của tập đoàn Pol Pot – nổ súng xâm lấn lãnh thổ ta ngay khi hòa bình vừa chớm nở.
+- **Tập 01 (Đêm 03 rạng sáng 04/5/1975) - "Tiếng súng lạ ở Bãi Dương (Phú Quốc)"**:
+  - *Bối cảnh*: Chỉ 3 ngày sau ngày giải phóng 30/4/1975, cờ đỏ sao vàng vừa rợp bóng đảo ngọc Phú Quốc. Lực lượng cách mạng tiếp quản chỉ hơn 100 cán bộ chiến sĩ, trong khi trên đảo có 50.000 - 60.000 dân di tản và tàn binh chế độ cũ. Đêm 03 rạng sáng 04/5/1975, 1 trung đoàn Khmer Đỏ (tàu chiến, tàu há mồm, xà lan) đậu ngoài khơi Bãi Dương (đầu Bãi Dài, xã Cửa Cạn), bắt 4 thuyền chài ép 11 ngư dân chở quân vào bãi cát rồi ra tay tàn độc khiến 9 người ngã xuống.
+  - *Chi tiết đắt giá*:
+    + Sự mưu trí của ngư dân: Ông Năm Thối (nghe hiểu tiếng Khmer) cùng ông Kế dùng cần lái thuyền quật ngã tên lính áp tải, nhảy xuống biển bơi thoát về Cửa Cạn, chạy về Dương Đông báo tin cho Ủy ban Quân quản.
+    + Trận địa chốt chặn: Đồng chí Đào Hữu Phước (Chỉ huy pháo binh huyện) nhận lệnh khẩn điều 4 khẩu cối 81/82mm lập trận địa tại Vũng Bầu - Bãi Dương; địa hình đầm lầy hiểm trở phía sau khóa chặt đường tiến của trung đoàn địch.
+    + Tinh thần đại đoàn kết dân tộc: Các sĩ quan pháo binh chế độ cũ được huy động đã khẳng khái gác lại quá khứ, sẵn sàng cùng bộ đội cách mạng giữ đảo với câu nói xúc động: *"Các anh yên tâm, chúng tôi bắn không trật một viên nào!"*. Ta dùng loa phóng thanh tiếng Khmer đanh thép yêu cầu rút quân, buộc trung đoàn Khmer Đỏ sau 3 ngày phải nhổ neo rút khỏi đảo.
+  - *Nguồn sử liệu & Nhân chứng*: Bác Đào Hữu Phước (nhân chứng sống, nguyên Chỉ huy Pháo binh huyện Phú Quốc); Video tư liệu thực địa kênh *Tung Tăng Khắp Miền* (https://youtu.be/3Toqqe42Kfg); *Lịch sử Đảng bộ và Quân dân huyện Phú Quốc*.
+  - *Ý nghĩa lịch sử*: Sự kiện đầu tiên vạch trần dã tâm phản bội của tập đoàn Pol Pot – nổ súng xâm lấn lãnh thổ ta ngay khi hòa bình vừa chớm nở; biểu tượng cho tinh thần cảnh giác và sức mạnh đại đoàn kết toàn dân tộc bảo vệ biển đảo quê hương.
 
 - **Tập 02 (Ngày 10/5/1975) - "Thảm kịch Thổ Chu sau thất bại ở Phú Quốc"**:
   - *Bối cảnh*: Bị đánh bật khỏi Phú Quốc, quân Pol Pot dùng tàu vũ trang chuyển hướng tập kích bất ngờ đánh chiếm quần đảo Thổ Chu xa xôi.

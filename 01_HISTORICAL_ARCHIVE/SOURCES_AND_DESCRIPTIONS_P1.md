@@ -15,7 +15,7 @@
 
 | Tập | Tựa đề tập phim | Bác CCB người kể chuyện | Kênh YouTube & Video nguồn thu thập | Chi tiết đắt giá từ lời kể |
 | :---: | :--- | :--- | :--- | :--- |
-| **00** | Tiếng Súng Lạ Ở Bãi Dài Phú Quốc (3/5/1975) | **Bác Phạm Minh Tuấn** (CCB tiếp quản đảo Phú Quốc 1975) | Kênh: *Ký ức Chiến trường Tây Nam*<br>Video: "Đêm 3/5/1975: Tiếng súng lạ Bãi Dài khi cờ hòa bình vừa treo" | Chi tiết: Cờ giải phóng vừa treo 3 ngày, nửa đêm nghe tiếng xuồng máy rẽ sóng áp sát Bãi Dài; ta nổ súng kiên quyết đánh bật toán lính Khmer Đỏ toan đánh úp. |
+| **00** | Tiếng Súng Lạ Ở Bãi Dương Phú Quốc (3/5/1975) | **Bác Đào Hữu Phước** (nguyên Chỉ huy Pháo binh huyện Phú Quốc) | Kênh: *Tung Tăng Khắp Miền*<br>Video: "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" (https://youtu.be/3Toqqe42Kfg) | Chi tiết: 1 trung đoàn Khmer Đỏ ép 11 dân chài chở quân vào Bãi Dương, ra tay tàn độc khiến 9 người ngã xuống; 2 ngư dân dũng cảm quật ngã lính địch bơi thoát báo tin; trận địa cối Vũng Bầu khống chế bãi cát; sĩ quan pháo binh chế độ cũ sát cánh cùng bộ đội giữ đảo. |
 | **00B** | **Đại Hải Chiến Tái Chiếm Thổ Chu (24/5/1975)** *(TRẬN HẢI CHIẾN LỚN NHẤT)* | **Bác Nguyễn Văn Thuyền** (CCB Pháo thủ tàu tuần tiễu Vùng 5 Hải quân) | Kênh: *Ký ức Người lính Biển*<br>Video: "Hải chiến Thổ Chu tháng 5/1975: Đấu pháo giữa trùng khơi" | Chi tiết: Tàu tuần tiễu PCF/PGM ta cưỡi sóng dữ, pháo 20mm đấu tay đôi bắn chìm tàu tuần tra Khmer Đỏ toan húc vào sườn tàu chở bộ binh E4. |
 | **01** | Lệnh Kiềm Chế & Chiếc Chốt An Toàn (1976) | **Bác Đặng Viết Thọ** (CCB Công an nhân dân vũ trang Tây Ninh) | Kênh: *Hồi ức Lính chiến*<br>Video: "Những ngày cắn răng giữ mốc biên giới Tây Ninh 1976" | Chi tiết: Cấp chỉ huy đè chặt nắp khóa nòng súng AK, bắt lính trẻ nuốt cục tức vào bụng khi thấy đối phương nhổ mốc trong đêm mưa. |
 | **02** | Đấu Trí Trong Rừng Khộp - Dấu Dép Đúc (1977) | **Bác Nguyễn Văn Hùng** (CCB Đại đội 20 Trinh sát, E2, F9) | Kênh: *Ký ức Người lính*<br>Video: "Những đêm luồn sâu giáp mặt lính áo đen ở Lộc Ninh" | Chi tiết: Lần theo dấu dép cao su đúc nguyên khối săm lốp Trung Quốc và nhánh cây bị bẻ gập để đọc vị hướng xâm lấn. |
@@ -29,19 +29,19 @@
 
 ---
 
-#### 🌟 MẪU DESCRIPTION TẬP 00: "TIẾNG SÚNG LẠ Ở BÃI DÀI PHÚ QUỐC (ĐÊM 03/5/1975)"
+#### 🌟 MẪU DESCRIPTION TẬP 00: "TIẾNG SÚNG LẠ Ở BÃI DƯƠNG PHÚ QUỐC (ĐÊM 03/5/1975)"
 
 ```text
 "Cờ hòa bình vừa treo 3 ngày... Tiếng sóng biển bỗng vang lên tiếng nạp đạn AK lạ!"
 
 📌 BỐI CẢNH LỊCH SỬ:
-Đêm 03 rạng sáng 04/5/1975 – Chỉ 3 ngày sau ngày giải phóng non sông 30/4, cờ đỏ sao vàng vừa bay rực rỡ khắp đảo Phú Quốc thì bất ngờ một toán quân Khmer Đỏ dùng xuồng vũ trang bí mật đổ bộ lên khu vực Bãi Dài (Bãi Dương) toan đánh úp, chiếm đảo. Lực lượng vũ trang ta vừa tiếp quản đồn bốt đã kịp thời phát hiện, kiên quyết nổ súng đánh bật toán quân xâm lấn, đập tan mưu đồ đánh chiếm đảo Phú Quốc ngay từ trong trứng nước.
+Đêm 03 rạng sáng 04/5/1975 – Chỉ 3 ngày sau ngày giải phóng 30/4, cờ đỏ sao vàng vừa bay rực rỡ khắp đảo Phú Quốc thì bất ngờ 1 trung đoàn Khmer Đỏ (tàu chiến, tàu há mồm ngoài khơi Bãi Dương) bắt 4 thuyền chài ép 11 ngư dân chở quân vào bờ cát rồi ra tay tàn độc khiến 9 người ngã xuống. Hai ngư dân mưu trí quật ngã tên áp tải bơi thoát về báo tin. Quân và dân Phú Quốc cùng các sĩ quan pháo binh chế độ cũ đã đồng lòng lập trận địa cối Vũng Bầu chốt chặn, đập tan mưu đồ đánh chiếm đảo Phú Quốc của Khmer Đỏ.
 
 🎙️ NGUỒN CÂU CHUYỆN & LỜI TRI ÂN:
-Kịch bản phim ngắn hoạt hình được phỏng tác dựa trên câu chuyện do Cựu chiến binh PHẠM MINH TUẤN (nguyên chiến sĩ tham gia tiếp quản đảo Phú Quốc tháng 5/1975) chia sẻ trong video "Đêm 3/5/1975: Tiếng súng lạ Bãi Dài khi cờ hòa bình vừa treo" trên kênh YouTube "Ký ức Chiến trường Tây Nam".
+Kịch bản phim ngắn hoạt hình được phỏng tác dựa trên câu chuyện do Cựu chiến binh ĐÀO HỮU PHƯỚC (chú Năm Lãnh, nguyên Chỉ huy trưởng phân đội Pháo binh huyện Phú Quốc năm 1975) trực tiếp chia sẻ trong video tư liệu thực địa "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" trên kênh YouTube "Tung Tăng Khắp Miền" (https://youtu.be/3Toqqe42Kfg).
 (Các nhân vật trong phim là hình tượng nghệ thuật đại diện cho tinh thần cảnh giác của người lính giữ biển đảo Tổ quốc).
 
-Kính gửi lời cảm ơn và lòng biết ơn chân thành nhất tới Bác Phạm Minh Tuấn cùng các cựu chiến binh tiếp quản đảo ngọc Phú Quốc năm 1975 và kênh "Ký ức Chiến trường Tây Nam" đã lưu giữ ký ức lịch sử vô giá này!
+Kính gửi lời cảm ơn và lòng biết ơn chân thành nhất tới Bác Đào Hữu Phước cùng các cựu chiến binh, nhân dân đảo ngọc Phú Quốc và kênh YouTube "Tung Tăng Khắp Miền" đã ghi lại tư liệu lịch sử thực địa vô giá này! Tưởng niệm 9 ngư dân Phú Quốc đã ngã xuống trước họng súng quân Khmer Đỏ tại Bãi Dương đêm 03/5/1975.
 
 --------------------
 📜 Dự án hoạt hình tư liệu độc lập: Border War SW 779
