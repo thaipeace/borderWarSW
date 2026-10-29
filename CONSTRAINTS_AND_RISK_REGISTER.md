@@ -28,7 +28,7 @@
 
 | ID | Rủi ro | Mức | Việc cần làm | Trạng thái |
 |---|---|---|---|---|
-| B1 | **Bản đồ widget do AI tự vẽ** (path chữ S tự tạo, vị trí Hoàng Sa/Trường Sa ước lượng, chưa render kiểm tra; xuất PNG lỗi exit code 1) | **CAO** | Thay bằng bản đồ chuẩn do cơ quan nhà nước công bố; hoặc tạm bỏ widget ở bản MVP đầu. Bản đồ sai nguy hiểm hơn không có bản đồ | MỞ |
+| B1 | **Bản đồ widget & hình vẽ bản đồ** | **CAO** | **ÁP DỤNG ZERO MAP POLICY**: Tuyệt đối không dùng bất kỳ widget bản đồ, đồ họa bản đồ hay sơ đồ đường biên nào trong video để triệt tiêu 100% rủi ro pháp lý xuất bản/chủ quyền | **ĐÃ GIẢI QUYẾT (BỎ HOÀN TOÀN BẢN ĐỒ)** |
 | B2 | Chi tiết "săm lốp xe tải Trung Quốc" trong dấu dép (tập 02 và timeline Tập 11) | **CAO** | Bỏ hẳn chi tiết này khỏi kịch bản và timeline (nhạy cảm đối ngoại, không có nguồn) | MỞ |
 | B3 | Bản quyền và quyền nhân thân lời kể CCB trên YouTube | **CAO** | Xin phép chủ kênh/người kể bằng văn bản trước khi chuyển thể; lưu bằng chứng cho phép | MỞ |
 | B4 | Cách diễn giải "lệnh kiềm chế" là "bản lĩnh vì đại cuộc" | TRUNG BÌNH | Để người có thẩm quyền (Hội CCB, Viện Lịch sử Quân sự hoặc tương đương) duyệt khung diễn giải này | MỞ |
@@ -43,9 +43,9 @@
 | ID | Ràng buộc | Mức | Việc cần làm | Trạng thái |
 |---|---|---|---|---|
 | C1 | Quy mô 350-400 tập, 2 tập/tuần, mỗi tập đều cần đối chiếu nguồn: quá tải cho một người | CAO | Thu hẹp thành 1 mùa nhỏ 8-12 tập, đo kết quả rồi mới mở rộng | MỞ |
-| C2 | Nhất quán khuôn mặt/trang phục nhân vật qua nhiều cảnh trong HaizFlow chưa được kiểm chứng | CAO | Dùng bản MVP thứ Sáu làm phép thử; nếu không đạt, giảm số cảnh hoặc dùng ảnh tĩnh có chuyển động | MỞ |
-| C3 | Chất lượng TTS đối thoại 2 giọng có cảm xúc chưa nghe thử | TRUNG BÌNH | Nghe thử trước khi cam kết "phim có thoại" | MỞ |
-| C4 | Kịch bản 58 giây quá dày thoại, khó đọc kịp cùng phụ đề, lồng tiếng và widget | TRUNG BÌNH | Rút gọn thoại; tối đa khoảng 3-4 câu thoại ngắn mỗi tập MVP | MỞ |
+| C2 | Nhất quán khuôn mặt/trang phục nhân vật qua nhiều cảnh trong HaizFlow chưa được kiểm chứng | CAO | Dùng bản MVP thứ Sáu làm phép thử; nếu không đạt, giảm số cảnh hoặc dùng ảnh tĩnh có chuyển động | **ĐÃ GIẢI QUYẾT (Tập 01: Đã hoàn tất 5 cảnh đồng nhất & dựng xong MP4 60s)** |
+| C3 | Chất lượng TTS đối thoại 2 giọng có cảm xúc chưa nghe thử | TRUNG BÌNH | Nghe thử trước khi cam kết "phim có thoại" | **ĐÃ GIẢI QUYẾT (Tập 01: Đã nghe duyệt 3 giọng Nam Bộ tại Gate 2)** |
+| C4 | Kịch bản 58 giây quá dày thoại, khó đọc kịp cùng phụ đề, lồng tiếng và widget | TRUNG BÌNH | Rút gọn thoại; tối đa khoảng 3-4 câu thoại ngắn mỗi tập MVP | **ĐÃ GIẢI QUYẾT (Bản v6: 3 câu thoại ~15 từ)** |
 
 ---
 
@@ -76,10 +76,12 @@
 
 | Ngày | ID | Việc đã làm | Ghi chú |
 |---|---|---|---|
-| 28/10/2026 | A1, A2, A5 | Xác minh nhân chứng sống Bác Đào Hữu Phước + kênh Tung Tăng Khắp Miền (https://youtu.be/3Toqqe42Kfg). Transcript 737 dòng đã trích xuất tại ARCHIVE_YOUTUBE_PHUQUOC_03051975.md | Tập 01 đã có nguồn thật xác minh |
+| 28/10/2026 | A1, A2, A5 | Xác minh nhân chứng sống Bác Đào Hữu Phước + kênh Tung Tăng Khắp Miền (https://youtu.be/3Toqqe42Kfg) | Tập 01 đã có nguồn thực địa xác minh |
 | 28/10/2026 | B6 | Bổ sung Mục IV vào POLITICAL_LEGAL_HARNESS.md: Bảng Blacklist → Whitelist từ ngữ an toàn thuật toán YouTube/TikTok | Áp dụng cho toàn bộ thoại, VO, Subtitle, Description |
-| 28/10/2026 | D1 | Viết lại Hook mở đầu Tập 01: Hành động 14s không thoại (ông Năm Thối vung cần lái ghe quật ngã tên lính) | Visual & SFX Hook mạnh giữ chân người xem |
-| 28/10/2026 | C4 | Rút gọn kịch bản Tập 01 còn ~105 từ thoại / 58s chia 4 hồi rõ ràng | Đủ thời lượng cho âm thanh hiện trường và cao trào |
+| 28/10/2026 | D1 | Viết lại Hook mở đầu Tập 01: Hành động không thoại trên biển Bãi Dương (cú quật cần lái của ông Năm Thối) | Visual & SFX Hook mạnh giữ chân người xem |
+| 28/10/2026 | C4, A8 | Chuẩn hóa kịch bản Tập 01 vi mô theo chiến lược 3-4 năm: Loại bỏ nhân vật Út Hưng đưa nhầm thời điểm, loại bỏ mâm pháo 105mm mép nước, chuẩn hóa đường chạy đêm của ngư dân về Dương Đông báo quân quản, thoại tinh gọn ~75 từ / 58s | Khớp 100% sự thật lịch sử và tư duy vi mô |
+| 29/10/2026 | B1, C2, C4, A8 | Nâng cấp Tập 01 lên chuẩn **v6.0** (`EP01_DemDauThang5_PhuQuoc_v6_60s.md`): Ẩn danh hóa 3 hình tượng nhân vật, rút gọn còn 3 câu thoại (~15 từ), áp dụng Zero Map Policy (góc máy cao thay bản đồ), hoàn thành render 5/5 ảnh phân cảnh dọc 9:16 tại `factory/materialAndDraft/Chapter1/assets/` | Sẵn sàng tạo TTS/SFX và ghép Timeline 60s |
+| 29/10/2026 | C2, C3, B6, D3 | Hoàn tất trọn vẹn **6 Cổng Sản Xuất (Gate 0 → Gate 6)** cho Tập 01 theo kiến trúc 3 tầng (`materialAndDraft` → `staging` → `production`), xuất bản Final Master `factory/production/Chapter1/EP01_DemDauThang5_PhuQuoc_v6_60s.mp4` và gói `PUBLISH_PACKAGE_EP01.md` | ✅ ĐÃ HOÀN THÀNH SẢN XUẤT (PRODUCED) |
 
 ---
 
@@ -89,6 +91,6 @@
 
 | Tập | File checklist pháp lý & thẩm định | Trạng thái |
 |---|---|---|
-| **Tập 01** – Tiếng Súng Lạ Bãi Dương (03/5/1975) | `05_EPISODE_CLEARANCE/TAP01_CLEARANCE.md` | ✅ ĐẠT TIÊU CHUẨN SẢN XUẤT |
+| **Tập 01** – Đêm Đầu Tháng 5 Ở Phú Quốc (v6 – 60s: Thế Kẹt Độc Đạo) | `05_EPISODE_CLEARANCE/TAP01_CLEARANCE.md` | ✅ **ĐÃ HOÀN THÀNH SẢN XUẤT (PRODUCED – PASS 6/6 GATES)** |
 | **Tập 02** – Thổ Chu (10/5/1975) | `05_EPISODE_CLEARANCE/TAP02_CLEARANCE.md` | ⏳ CHỜ TƯ LIỆU BỔ SUNG |
 | **Tập 03** – Hải Chiến Tái Chiếm Thổ Chu | `05_EPISODE_CLEARANCE/TAP03_CLEARANCE.md` | ⏳ CHỜ ĐỐI CHIẾU SỬ LIỆU |

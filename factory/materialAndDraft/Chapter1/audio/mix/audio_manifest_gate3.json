@@ -1,0 +1,216 @@
+{
+  "episode_id": "EP01",
+  "gate": "GATE_3_SFX_BGM_AND_MIX",
+  "sample_rate": 48000,
+  "total_duration_sec": 60.0,
+  "leveling_standard": {
+    "dialogue_tts_target_peak_dbfs": "-3.0 dBFS",
+    "action_foley_target_peak_dbfs": "-9.0 to -4.5 dBFS",
+    "ambience_bgm_base_dbfs": "-18.0 to -14.0 dBFS",
+    "auto_ducking_during_dialogue": "-22.0 dBFS (attenuated by -7dB to -10dB under voice)"
+  },
+  "layers": {
+    "ambience": {
+      "amb_beat1_2_night_sea_boat": {
+        "timeline_window_sec": [
+          0.0,
+          20.0
+        ],
+        "description": "Tiếng máy ghe đuôi tôm (tạch... tạch... xập xình), sóng biển đêm vỗ mạn gỗ & gió biển rít nhẹ",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat1_2_night_sea_boat.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat1_2_night_sea_boat.mp3",
+        "duration_sec": 20.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -15.5,
+        "rms_dbfs": -33.58
+      },
+      "amb_beat3_4_night_coastal_swamp": {
+        "timeline_window_sec": [
+          20.0,
+          46.0
+        ],
+        "description": "Tiếng gió đêm lùa tán dừa/rừng đước, tiếng sóng xa và côn trùng đêm Phú Quốc",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat3_4_night_coastal_swamp.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat3_4_night_coastal_swamp.mp3",
+        "duration_sec": 26.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -16.5,
+        "rms_dbfs": -33.04
+      },
+      "amb_beat5_sunrise_calm_sea": {
+        "timeline_window_sec": [
+          46.0,
+          60.0
+        ],
+        "description": "Tiếng sóng biển bình minh hiền hòa vỗ bờ cát & gió sớm",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat5_sunrise_calm_sea.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/amb_beat5_sunrise_calm_sea.mp3",
+        "duration_sec": 14.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -16.0,
+        "rms_dbfs": -31.14
+      }
+    },
+    "foley": {
+      "foley_beat2_tiller_hit_bop": {
+        "timeline_start_sec": 10.9,
+        "impact_peak_sec": 11.2,
+        "description": "Nhịp 2 (10.9s–12.45s): Tiếng vung cần lái gỗ nghiến cực mạnh (VÚT – BỐP! / RẦM! tại 11.20s), tiếng ngã nhào lên ván ghe & súng AK văng",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_tiller_hit_bop.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_tiller_hit_bop.mp3",
+        "duration_sec": 1.55,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -0.8,
+        "rms_dbfs": -17.47
+      },
+      "foley_beat2_water_plunge_um": {
+        "timeline_start_sec": 12.15,
+        "impact_peak_sec": 12.5,
+        "description": "Nhịp 2 (12.15s–15.65s): Tiếng đạp mạn ghe bỏ thuyền (CỘP! RẮC!), 2 cú lao mình xuống biển đêm (ÙM! ÀO! tại 12.50s & 12.83s) và tiếng sải bơi thoát thân",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_water_plunge_um.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_water_plunge_um.mp3",
+        "duration_sec": 3.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -0.8,
+        "rms_dbfs": -16.48
+      },
+      "foley_beat2_ak47_bursts_distant": {
+        "timeline_start_sec": 14.0,
+        "description": "Nhịp 2 (14.0s–19.5s): 3 loạt súng AK điểm xạ trên bờ cát rồi xa dần khi lặn sâu dưới nước",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_ak47_bursts_distant.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat2_ak47_bursts_distant.mp3",
+        "duration_sec": 5.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -7.0,
+        "rms_dbfs": -28.09
+      },
+      "foley_beat3_footsteps_and_door_knock": {
+        "timeline_start_sec": 20.0,
+        "description": "Nhịp 3 (20.0s–22.4s): Tiếng bước chân trần chạy gấp, đập cửa gỗ dồn dập (Cộc! Cộc! Cộc!) & mở toang cửa",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat3_footsteps_and_door_knock.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat3_footsteps_and_door_knock.mp3",
+        "duration_sec": 2.45,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -5.0,
+        "rms_dbfs": -19.27
+      },
+      "foley_beat3_alarm_gong_keng": {
+        "timeline_start_sec": 26.5,
+        "description": "Nhịp 3 (26.5s–30.0s): Tiếng kẻng báo động vỏ bom vang lên dồn dập trong đêm (Keng! Keng! Keng!)",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat3_alarm_gong_keng.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat3_alarm_gong_keng.mp3",
+        "duration_sec": 3.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -5.5,
+        "rms_dbfs": -18.01
+      },
+      "foley_beat4_mud_slog_and_drum": {
+        "timeline_start_sec": 30.0,
+        "description": "Nhịp 4 (30.0s–46.0s): Tiếng lội bùn sình lầy bì bõm ở rễ đước & nhịp trống trầm khóa chặt thế trận",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat4_mud_slog_and_drum.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat4_mud_slog_and_drum.mp3",
+        "duration_sec": 16.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -6.0,
+        "rms_dbfs": -29.92
+      },
+      "foley_beat5_distant_ship_horn": {
+        "timeline_start_sec": 46.0,
+        "description": "Nhịp 5 (46.0s–50.0s): Tiếng còi tàu sắt xa xăm mờ dần ngoài khơi khi rút lui",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat5_distant_ship_horn.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/sfx/foley_beat5_distant_ship_horn.mp3",
+        "duration_sec": 4.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -8.0,
+        "rms_dbfs": -22.11
+      }
+    },
+    "bgm": {
+      "bgm_part1_tension_drone_00_46s": {
+        "timeline_window_sec": [
+          0.0,
+          46.0
+        ],
+        "description": "Nhạc nền nửa đầu (00–46s): Drone trầm căng thẳng (D minor) kết hợp nhịp tim trầm sâu",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/bgm/bgm_part1_tension_drone_00_46s.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/bgm/bgm_part1_tension_drone_00_46s.mp3",
+        "duration_sec": 46.5,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -15.0,
+        "rms_dbfs": -25.93
+      },
+      "bgm_part2_sao_truc_dan_bau_46_60s": {
+        "timeline_window_sec": [
+          46.0,
+          60.0
+        ],
+        "description": "Nhạc nền nửa cuối (46–60s): Giai điệu ngũ cung Đàn Bầu & Sáo Trúc mộc mạc, sâu lắng lúc bình minh",
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/bgm/bgm_part2_sao_truc_dan_bau_46_60s.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/bgm/bgm_part2_sao_truc_dan_bau_46_60s.mp3",
+        "duration_sec": 14.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -14.0,
+        "rms_dbfs": -27.91
+      }
+    },
+    "stems_and_master": {
+      "stem_dialogue_60s": {
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/mix/stem_dialogue_60s.wav",
+        "mp3_path": null,
+        "duration_sec": 60.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -3.0,
+        "rms_dbfs": -26.84
+      },
+      "stem_ambience_60s": {
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/mix/stem_ambience_60s.wav",
+        "mp3_path": null,
+        "duration_sec": 60.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -15.5,
+        "rms_dbfs": -33.6
+      },
+      "stem_foley_60s": {
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/mix/stem_foley_60s.wav",
+        "mp3_path": null,
+        "duration_sec": 60.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -0.01,
+        "rms_dbfs": -22.54
+      },
+      "stem_bgm_60s": {
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/mix/stem_bgm_60s.wav",
+        "mp3_path": null,
+        "duration_sec": 60.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -14.0,
+        "rms_dbfs": -27.74
+      },
+      "master_audio_ep01_v6_60s": {
+        "wav_path": "factory/materialAndDraft/Chapter1/audio/mix/master_audio_ep01_v6_60s.wav",
+        "mp3_path": "factory/materialAndDraft/Chapter1/audio/mix/master_audio_ep01_v6_60s.mp3",
+        "duration_sec": 60.0,
+        "channels": 2,
+        "sample_rate": 48000,
+        "peak_dbfs": -1.02,
+        "rms_dbfs": -20.12
+      }
+    }
+  }
+}

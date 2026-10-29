@@ -1,0 +1,226 @@
+{
+  "episode_id": "EP01",
+  "gate": "GATE_4_TIMELINE_60S_AND_SAFE_ZONE",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_frames": 1800,
+    "total_duration_sec": 60.0,
+    "zero_map_policy_enforced": true
+  },
+  "safe_zone_rules": {
+    "left_margin_px": 80,
+    "right_margin_px": 160,
+    "safe_x_range": [
+      80,
+      920
+    ],
+    "max_y_px": 1420,
+    "all_overlays_compliant": true
+  },
+  "transitions": [
+    {
+      "at_sec": 10.0,
+      "type": "cross_dissolve",
+      "duration_sec": 0.3
+    },
+    {
+      "at_sec": 20.0,
+      "type": "cross_dissolve",
+      "duration_sec": 0.3
+    },
+    {
+      "at_sec": 30.0,
+      "type": "cross_dissolve",
+      "duration_sec": 0.3
+    },
+    {
+      "at_sec": 46.0,
+      "type": "fade_to_sunrise_gold",
+      "duration_sec": 0.5
+    }
+  ],
+  "subtitle_srt": "factory/staging/Chapter1/subtitles/ep01_subtitles.srt",
+  "video_track_noaudio": "factory/staging/Chapter1/timeline_video_60s_gate4.mp4",
+  "channel_branding": {
+    "png_path": "factory/staging/Chapter1/overlays/00_branding_vch_vanchuyen.png",
+    "type": "channel_branding",
+    "logo_text": "VCH",
+    "logo_bbox_px": [
+      30,
+      30,
+      108,
+      65
+    ],
+    "watermark_text": "VẠN CHUYỆN",
+    "watermark_bbox_px": [
+      847,
+      1424,
+      1016,
+      1452
+    ],
+    "safe_zone_compliant": true
+  },
+  "overlays": [
+    {
+      "id": "01_hook_01_03s",
+      "start_sec": 0.6,
+      "end_sec": 6.5,
+      "fade_sec": 0.35,
+      "png_path": "factory/staging/Chapter1/overlays/01_hook_01_03s.png",
+      "type": "text_hook",
+      "text": "VÙNG BIỂN ĐẢO TÂY NAM — Đêm đầu tháng 5/1975",
+      "bbox_px": [
+        213,
+        170,
+        788,
+        302
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "02_sub1a_22_24s",
+      "start_sec": 22.5,
+      "end_sec": 24.35,
+      "fade_sec": 0.12,
+      "png_path": "factory/staging/Chapter1/overlays/02_sub1a_22_24s.png",
+      "type": "subtitle",
+      "speaker": "nguoi_chai_tre",
+      "lines": [
+        "Tàu lạ đổ bộ bãi cát..."
+      ],
+      "bbox_px": [
+        239,
+        1275,
+        762,
+        1375
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "03_sub1b_24_26s",
+      "start_sec": 24.35,
+      "end_sec": 26.05,
+      "fade_sec": 0.12,
+      "png_path": "factory/staging/Chapter1/overlays/03_sub1b_24_26s.png",
+      "type": "subtitle",
+      "speaker": "nguoi_chai_tre",
+      "lines": [
+        "Quân đông lắm, báo gấp!"
+      ],
+      "bbox_px": [
+        198,
+        1275,
+        803,
+        1375
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "04_sub2_41_43s",
+      "start_sec": 41.0,
+      "end_sec": 43.25,
+      "fade_sec": 0.12,
+      "png_path": "factory/staging/Chapter1/overlays/04_sub2_41_43s.png",
+      "type": "subtitle",
+      "speaker": "nguoi_truc_dem",
+      "lines": [
+        "Chúng hết đường rồi!"
+      ],
+      "bbox_px": [
+        237,
+        1277,
+        763,
+        1375
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "05_sub3a_50_52s",
+      "start_sec": 50.5,
+      "end_sec": 52.35,
+      "fade_sec": 0.15,
+      "png_path": "factory/staging/Chapter1/overlays/05_sub3a_50_52s.png",
+      "type": "subtitle",
+      "speaker": "lao_chai",
+      "lines": [
+        "Hòn đảo của mình..."
+      ],
+      "bbox_px": [
+        253,
+        1287,
+        748,
+        1375
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "06_sub3b_52_54s",
+      "start_sec": 52.35,
+      "end_sec": 54.4,
+      "fade_sec": 0.15,
+      "png_path": "factory/staging/Chapter1/overlays/06_sub3b_52_54s.png",
+      "type": "subtitle",
+      "speaker": "lao_chai",
+      "lines": [
+        "Sóng lại êm rồi."
+      ],
+      "bbox_px": [
+        298,
+        1277,
+        702,
+        1375
+      ],
+      "safe_zone_compliant": true
+    },
+    {
+      "id": "07_disclaimer_57_60s",
+      "start_sec": 57.0,
+      "end_sec": 60.0,
+      "fade_sec": 0.25,
+      "png_path": "factory/staging/Chapter1/overlays/07_disclaimer_57_60s.png",
+      "type": "disclaimer",
+      "text": "Phóng tác từ lời kể của một cựu chiến binh. Nhân vật và tình tiết đã được hư cấu hóa.",
+      "bbox_px": [
+        80,
+        1215,
+        920,
+        1390
+      ],
+      "safe_zone_compliant": true
+    }
+  ],
+  "qa_preview_frames": [
+    {
+      "timestamp_sec": 2.0,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat1_hook_02s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat1_hook_02s_safezone_guide.jpg"
+    },
+    {
+      "timestamp_sec": 11.2,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat2_impact_11s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat2_impact_11s_safezone_guide.jpg"
+    },
+    {
+      "timestamp_sec": 24.8,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat3_sub1_25s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat3_sub1_25s_safezone_guide.jpg"
+    },
+    {
+      "timestamp_sec": 41.8,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat4_sub2_42s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat4_sub2_42s_safezone_guide.jpg"
+    },
+    {
+      "timestamp_sec": 53.0,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat5_sub3_53s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat5_sub3_53s_safezone_guide.jpg"
+    },
+    {
+      "timestamp_sec": 58.5,
+      "clean_frame": "factory/staging/Chapter1/preview_frames/qa_beat5_disclaimer_58s_clean.jpg",
+      "safezone_guide_frame": "factory/staging/Chapter1/preview_frames/qa_beat5_disclaimer_58s_safezone_guide.jpg"
+    }
+  ]
+}

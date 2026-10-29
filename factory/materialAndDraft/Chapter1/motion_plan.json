@@ -1,0 +1,190 @@
+{
+  "episode_id": "EP01",
+  "title": "Đêm Đầu Tháng 5 Ở Phú Quốc (v6 – Thế Kẹt Độc Đạo)",
+  "version": "v6.0",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "fps": 30,
+    "total_duration_sec": 60.0,
+    "zero_map_policy": true
+  },
+  "safe_zone": {
+    "subtitle_max_y": 1420,
+    "right_margin_px": 160,
+    "left_margin_px": 80,
+    "top_hook_y": 180
+  },
+  "scenes": [
+    {
+      "beat_id": 1,
+      "name": "NHỊP 1 – HOOK BIỂN ĐÊM",
+      "asset_path": "factory/materialAndDraft/Chapter1/assets/scene1_boat_night.jpg",
+      "source_resolution": "768x1376",
+      "start_sec": 0.0,
+      "end_sec": 10.0,
+      "duration_sec": 10.0,
+      "motion": {
+        "type": "ken_burns_slow_push",
+        "start_scale": 1.02,
+        "end_scale": 1.12,
+        "start_focus_xy": [0.5, 0.52],
+        "end_focus_xy": [0.55, 0.58],
+        "camera_shake": "subtle_wave_rocking",
+        "description": "Zoom-in chậm từ toàn cảnh chiếc ghe máy đêm tiến dần về ánh mắt trao đổi tín hiệu ngầm giữa Lão chài và Người chài trẻ; lắc nhẹ theo nhịp sóng."
+      },
+      "text_overlay": {
+        "text": "Đêm đầu tháng 5/1975",
+        "start_sec": 0.6,
+        "end_sec": 6.5,
+        "position": "top_center"
+      },
+      "dialogue": null,
+      "sfx_cues": [
+        "00.0s–10.0s: Tiếng máy ghe đuôi tôm (tạch... tạch... xập xình)",
+        "00.0s–10.0s: Tiếng sóng biển đêm vỗ mạn gỗ & gió rít nhẹ"
+      ]
+    },
+    {
+      "beat_id": 2,
+      "name": "NHỊP 2 – CÚ QUẬT SINH TỬ & THOÁT HIỂM",
+      "asset_path": "factory/materialAndDraft/Chapter1/assets/scene2_action_tiller.jpg",
+      "source_resolution": "768x1376",
+      "start_sec": 10.0,
+      "end_sec": 20.0,
+      "duration_sec": 10.0,
+      "motion": {
+        "type": "impact_shake_and_tilt_down",
+        "start_scale": 1.15,
+        "end_scale": 1.05,
+        "start_focus_xy": [0.48, 0.35],
+        "end_focus_xy": [0.52, 0.68],
+        "impact_shake_at_sec": 11.2,
+        "description": "Mở cảnh ở cú vung cần lái của Lão chài (giật khung hình mạnh tại giây 11.2 khi tiếng BỐP vang lên), sau đó pan/tilt nhanh xuống phía dưới theo cú nhảy lao mình xuống biển đen của Người chài trẻ."
+      },
+      "text_overlay": null,
+      "dialogue": null,
+      "sfx_cues": [
+        "11.2s: Tiếng gỗ nghiến đập mạnh (BỐP!)",
+        "12.5s: Tiếng nhảy ùm xuống nước bắn tung tóe (ÙM!)",
+        "14.0s–19.5s: Tiếng súng AK nổ rát rạt trên bờ cát rồi xa dần trong tiếng gió và tiếng lặn nước"
+      ]
+    },
+    {
+      "beat_id": 3,
+      "name": "NHỊP 3 – BƯỚC CHÂN CHẠY ĐÊM & CẤP BÁO",
+      "asset_path": "factory/materialAndDraft/Chapter1/assets/scene3_alert_cabin.jpg",
+      "source_resolution": "768x1376",
+      "start_sec": 20.0,
+      "end_sec": 30.0,
+      "duration_sec": 10.0,
+      "motion": {
+        "type": "handheld_urgent_push",
+        "start_scale": 1.04,
+        "end_scale": 1.14,
+        "start_focus_xy": [0.5, 0.55],
+        "end_focus_xy": [0.45, 0.45],
+        "camera_shake": "handheld_breathing",
+        "description": "Khung hình rung nhẹ theo nhịp thở gấp gáp, đẩy dần vào gương mặt ướt sũng của hai ngư dân dưới ánh đèn bão vừa bật sáng của Người trực đêm."
+      },
+      "text_overlay": null,
+      "dialogue": {
+        "speaker": "nguoi_chai_tre",
+        "voice_profile": "gemini-2.5-flash-preview-tts:Puck",
+        "audio_wav": "factory/materialAndDraft/Chapter1/audio/tts/line1_beat3_nguoi_chai_tre.wav",
+        "audio_mp3": "factory/materialAndDraft/Chapter1/audio/tts/line1_beat3_nguoi_chai_tre.mp3",
+        "start_sec": 22.5,
+        "end_sec": 25.926,
+        "duration_sec": 3.426,
+        "text": "Tàu lạ đổ bộ bãi cát... quân đông lắm, báo gấp!"
+      },
+      "sfx_cues": [
+        "20.0s–21.8s: Tiếng bước chân trần chạy gấp & tiếng đập cửa gỗ dồn dập (Cộc! Cộc! Cộc!)",
+        "22.0s: Tiếng cánh cửa gỗ mở toang & tiếng thở dốc",
+        "27.5s–30.0s: Tiếng kẻng báo động vang lên dồn dập trong đêm (Keng... keng... keng!)"
+      ]
+    },
+    {
+      "beat_id": 4,
+      "name": "NHỊP 4 – THẾ KẸT ĐỘC ĐẠO (GÓC MÁY CAO - KHÔNG BẢN ĐỒ)",
+      "asset_path": "factory/materialAndDraft/Chapter1/assets/scene4_bottleneck_swamp.jpg",
+      "source_resolution": "768x1376",
+      "start_sec": 30.0,
+      "end_sec": 46.0,
+      "duration_sec": 16.0,
+      "motion": {
+        "type": "cinematic_high_angle_tilt_up",
+        "start_scale": 1.18,
+        "end_scale": 1.02,
+        "start_focus_xy": [0.55, 0.78],
+        "end_focus_xy": [0.5, 0.32],
+        "description": "Góc máy điện ảnh từ trên cao (Cinematic High-Angle Shot): Bắt đầu từ toán lính áo đen bị dồn ứ và lún bùn bên rễ đước ngập mặn (phía dưới), lướt qua 3 nhân vật key đang đấu lý giữa bãi cát hẹp, rồi kéo máy chậm lên tới chốt chặn kiên cố trên đồi cao (phía trên)."
+      },
+      "text_overlay": null,
+      "dialogue": {
+        "speaker": "nguoi_truc_dem",
+        "voice_profile": "gemini-2.5-flash-preview-tts:Fenrir",
+        "audio_wav": "factory/materialAndDraft/Chapter1/audio/tts/line2_beat4_nguoi_truc_dem.wav",
+        "audio_mp3": "factory/materialAndDraft/Chapter1/audio/tts/line2_beat4_nguoi_truc_dem.mp3",
+        "start_sec": 41.0,
+        "end_sec": 43.206,
+        "duration_sec": 2.206,
+        "text": "Chúng hết đường rồi!"
+      },
+      "sfx_cues": [
+        "30.0s–40.0s: Tiếng lội bùn sình lầy bì bõm, tiếng sóng vỗ bờ cát & âm trầm căng thẳng (Low Drone)",
+        "40.5s–46.0s: Nhịp trống trầm dứt khoát khẳng định thế trận khóa chặt lối độc đạo"
+      ]
+    },
+    {
+      "beat_id": 5,
+      "name": "NHỊP 5 – CHÂN TRỜI TRỐNG & HÒA BÌNH TRỞ LẠI",
+      "asset_path": "factory/materialAndDraft/Chapter1/assets/scene5_sunrise_peace.jpg",
+      "source_resolution": "768x1376",
+      "start_sec": 46.0,
+      "end_sec": 60.0,
+      "duration_sec": 14.0,
+      "motion": {
+        "type": "ken_burns_slow_pull_out",
+        "start_scale": 1.14,
+        "end_scale": 1.02,
+        "start_focus_xy": [0.62, 0.35],
+        "end_focus_xy": [0.5, 0.5],
+        "description": "Chuyển cảnh sáng dần (Fade-to-sunrise): Bắt đầu từ bóng những chiếc tàu đang quay mũi rời xa dần về phía mặt trời mọc, rồi mở rộng (Zoom-out) lấy trọn hình ảnh hai người dân chài đứng dưới lá cờ đỏ sao vàng tung bay trên gò đảo."
+      },
+      "text_overlay": {
+        "text": "Phóng tác từ lời kể của một cựu chiến binh. Nhân vật và tình tiết đã được hư cấu hóa.",
+        "start_sec": 57.0,
+        "end_sec": 60.0,
+        "position": "bottom_safe_zone_disclaimer"
+      },
+      "dialogue": {
+        "speaker": "lao_chai",
+        "voice_profile": "gemini-2.5-flash-preview-tts:Charon",
+        "audio_wav": "factory/materialAndDraft/Chapter1/audio/tts/line3_beat5_lao_chai.wav",
+        "audio_mp3": "factory/materialAndDraft/Chapter1/audio/tts/line3_beat5_lao_chai.mp3",
+        "start_sec": 50.5,
+        "end_sec": 54.276,
+        "duration_sec": 3.776,
+        "text": "Hòn đảo của mình... sóng lại êm rồi."
+      },
+      "sfx_cues": [
+        "46.0s–50.0s: Tiếng còi tàu xa xăm mờ dần ngoài khơi & tiếng sóng biển hiền hòa",
+        "50.0s–60.0s: Giai điệu sáo trúc / đàn bầu nhẹ nhàng, sâu lắng (Auto-ducking -14dB từ 50.5s–55.0s)"
+      ]
+    }
+  ],
+  "audio_mix": {
+    "manifest_path": "factory/materialAndDraft/Chapter1/audio/mix/audio_manifest_gate3.json",
+    "master_wav": "factory/materialAndDraft/Chapter1/audio/mix/master_audio_ep01_v6_60s.wav",
+    "master_mp3": "factory/materialAndDraft/Chapter1/audio/mix/master_audio_ep01_v6_60s.mp3",
+    "stems": {
+      "dialogue_60s": "factory/materialAndDraft/Chapter1/audio/mix/stem_dialogue_60s.wav",
+      "ambience_60s": "factory/materialAndDraft/Chapter1/audio/mix/stem_ambience_60s.wav",
+      "foley_60s": "factory/materialAndDraft/Chapter1/audio/mix/stem_foley_60s.wav",
+      "bgm_60s": "factory/materialAndDraft/Chapter1/audio/mix/stem_bgm_60s.wav"
+    }
+  }
+}
+

@@ -1,0 +1,62 @@
+{
+  "episode_id": "EP01",
+  "chapter": "Chapter1",
+  "title": "Tập 01 – Đêm Đầu Tháng 5 Ở Phú Quốc (v6.0 – 60 giây: Thế Kẹt Độc Đạo)",
+  "gate": "GATE_6_PRODUCTION_RELEASE",
+  "status": "PRODUCED_READY_FOR_PUBLISH",
+  "released_at": "2026-10-29T23:02:23.699475+07:00",
+  "architecture_tiers": {
+    "tier1_material_and_draft": "factory/materialAndDraft/Chapter1",
+    "tier2_staging": "factory/staging/Chapter1",
+    "tier3_production": "factory/production/Chapter1",
+    "global_shorts_mirror": "06_RENDERED_SHORTS"
+  },
+  "master_video": {
+    "production_path": "factory/production/Chapter1/EP01_DemDauThang5_PhuQuoc_v6_60s.mp4",
+    "shorts_mirror_path": "06_RENDERED_SHORTS/EP01_DemDauThang5_PhuQuoc_v6_60s.mp4",
+    "subtitle_sidecar_path": "factory/production/Chapter1/EP01_DemDauThang5_PhuQuoc_v6_60s.srt",
+    "thumbnail_path": "factory/production/Chapter1/EP01_Thumbnail_9x16.jpg",
+    "file_size_bytes": 38120128,
+    "file_size_mb": 36.35,
+    "sha256": "4fd71abafc0bbbe3321a90358965e06df99554be3f9077cbccb6bfd068a2b9ac",
+    "stream_probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ],
+      "format": {
+        "duration": "60.000000",
+        "size": "38120128",
+        "bit_rate": "5082683"
+      }
+    }
+  },
+  "gate5_qa_reference": {
+    "all_8_points_passed": true,
+    "report_path": "factory/staging/Chapter1/GATE5_8POINT_QA_REPORT.md",
+    "json_path": "factory/staging/Chapter1/qa_audit_report_gate5.json"
+  },
+  "compliance_flags": {
+    "identity_anonymity": true,
+    "zero_map_policy": true,
+    "asr_ocr_algorithm_safe": true,
+    "ai_synthetic_content_disclosure_required": true,
+    "dramatized_adaptation_disclaimer_embedded": true
+  }
+}

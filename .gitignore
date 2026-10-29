@@ -1,3 +1,22 @@
-# Final rendered products - to be released later
+# ============================================================================
+# Border War SW 779 - Git Ignore Rules (Option B: Lightweight Git Repository)
+# ============================================================================
+
+# 1. Rendered MP4 videos (kept on local disk / cloud storage, ignored in Git)
+*.mp4
 06_RENDERED_SHORTS/*
 !06_RENDERED_SHORTS/.gitkeep
+
+# 2. Uncompressed Gate-3 WAV stems & SFX/BGM (100% regenerable via generate_sfx_bgm_gate3.py;
+#    compressed .mp3 files and original Gate-2 Gemini TTS .wav files ARE tracked in Git)
+factory/materialAndDraft/*/audio/mix/*.wav
+factory/materialAndDraft/*/audio/sfx/*.wav
+factory/materialAndDraft/*/audio/bgm/*.wav
+
+# 3. Backup / Archive / Temporary folders
+factory/materialAndDraft/*/assets/originals_backup/
+factory/materialAndDraft/*/_archive_*/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

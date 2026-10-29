@@ -15,13 +15,14 @@
 
 | Tập | Tựa đề tập phim | Bác CCB người kể chuyện | Kênh YouTube & Video nguồn thu thập | Chi tiết đắt giá từ lời kể |
 | :---: | :--- | :--- | :--- | :--- |
-| **00** | Tiếng Súng Lạ Ở Bãi Dương Phú Quốc (3/5/1975) | **Bác Đào Hữu Phước** (nguyên Chỉ huy Pháo binh huyện Phú Quốc) | Kênh: *Tung Tăng Khắp Miền*<br>Video: "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" (https://youtu.be/3Toqqe42Kfg) | Chi tiết: 1 trung đoàn Khmer Đỏ ép 11 dân chài chở quân vào Bãi Dương, ra tay tàn độc khiến 9 người ngã xuống; 2 ngư dân dũng cảm quật ngã lính địch bơi thoát báo tin; trận địa cối Vũng Bầu khống chế bãi cát; sĩ quan pháo binh chế độ cũ sát cánh cùng bộ đội giữ đảo. |
-| **00B** | **Đại Hải Chiến Tái Chiếm Thổ Chu (24/5/1975)** *(TRẬN HẢI CHIẾN LỚN NHẤT)* | **Bác Nguyễn Văn Thuyền** (CCB Pháo thủ tàu tuần tiễu Vùng 5 Hải quân) | Kênh: *Ký ức Người lính Biển*<br>Video: "Hải chiến Thổ Chu tháng 5/1975: Đấu pháo giữa trùng khơi" | Chi tiết: Tàu tuần tiễu PCF/PGM ta cưỡi sóng dữ, pháo 20mm đấu tay đôi bắn chìm tàu tuần tra Khmer Đỏ toan húc vào sườn tàu chở bộ binh E4. |
-| **01** | Lệnh Kiềm Chế & Chiếc Chốt An Toàn (1976) | **Bác Đặng Viết Thọ** (CCB Công an nhân dân vũ trang Tây Ninh) | Kênh: *Hồi ức Lính chiến*<br>Video: "Những ngày cắn răng giữ mốc biên giới Tây Ninh 1976" | Chi tiết: Cấp chỉ huy đè chặt nắp khóa nòng súng AK, bắt lính trẻ nuốt cục tức vào bụng khi thấy đối phương nhổ mốc trong đêm mưa. |
-| **02** | Đấu Trí Trong Rừng Khộp - Dấu Dép Đúc (1977) | **Bác Nguyễn Văn Hùng** (CCB Đại đội 20 Trinh sát, E2, F9) | Kênh: *Ký ức Người lính*<br>Video: "Những đêm luồn sâu giáp mặt lính áo đen ở Lộc Ninh" | Chi tiết: Lần theo dấu dép cao su đúc nguyên khối săm lốp Trung Quốc và nhánh cây bị bẻ gập để đọc vị hướng xâm lấn. |
-| **03** | Chốt Gò Nổi Giữa Mùa Nước Ngập (1977) | **Bác Lê Minh Cảnh** (CCB Trung đoàn 1, Sư đoàn 330) | Kênh: *Chuyện Kể Người Lính*<br>Video: "Mùa nước nổi ngâm mình giữ gò đất biên cương" | Chi tiết: 3 người lính ngâm nước 12 tiếng, chia nhau từng giọt nước mưa hứng từ mảnh nilon tăng bạt. |
-| **04** | Đêm Xuồng Ba Lá Rẽ Bèo Tiếp Tế (1977) | **Cô Nguyễn Thị Mai** (Nguyên nữ du kích huyện An Phú) | Kênh: *Ký ức Chiến trường Tây Nam*<br>Video: "Những chuyến xuồng ba lá chở đạn trong đêm" | Chi tiết: Lấy giẻ mềm bọc quanh mái chèo để khua nước không tạo tiếng động qua mặt tàu tuần đối phương. |
-| **05** | Đêm Pháo Kích Bất Ngờ 30/4/1977 | **Bác Trần Văn Thành** (CCB Đồn Biên phòng Phú Hội) | Kênh: *Lịch sử & Nhân chứng*<br>Video: "Đêm 30/4/1977 lửa cháy rực trời bờ Vĩnh Tế" | Chi tiết: Quân số mỏng bị bao vây bốn bề, đánh dấu viên đạn cuối cùng cho bản thân trước khi đẩy lùi 4 đợt tấn công. |
+| **01** | Tiếng Súng Lạ Ở Bãi Dương Phú Quốc (3/5/1975) | **Bác Đào Hữu Phước** (nguyên Chỉ huy Pháo binh huyện Phú Quốc) | Kênh: *Tung Tăng Khắp Miền*<br>Video: "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" (https://youtu.be/3Toqqe42Kfg) | Chi tiết: Toán lính Khmer Đỏ ép dân chài chở quân vào Bãi Dương; 2 ngư dân dũng cảm Năm Thối và ông Kế quật ngã lính địch bơi thoát trong đêm, chạy về Dương Đông cấp báo quân quản; lệnh chốt chặn cối 82mm Vũng Bầu khống chế bãi cát kẹp đầm lầy. |
+| **02** | Thảm Kịch Thổ Chu (10/5/1975) | **Hồi ức nhân chứng biển Tây Nam** | Nguồn tư liệu: Lịch sử Hải quân & Ký ức Kiên Giang | Chi tiết: Hơn 500 đồng bào vô tội bị bắt cóc và sát hại; chiếc dép trẻ thơ trôi dạt ven mép sóng rạn vỡ. |
+| **03** | **Đại Hải Chiến Tái Chiếm Thổ Chu (23 - 27/5/1975)** *(TRẬN HẢI CHIẾN LỚN NHẤT)* | **Bác Nguyễn Văn Thuyền** (CCB Pháo thủ tàu tuần tiễu Vùng 5 Hải quân) | Kênh: *Ký ức Người lính Biển*<br>Video: "Hải chiến Thổ Chu tháng 5/1975: Đấu pháo giữa trùng khơi" | Chi tiết: Tàu tuần tiễu PCF/PGM ta cưỡi sóng dữ, pháo 20mm đấu tay đôi bắn chìm tàu tuần tra Khmer Đỏ toan húc vào sườn tàu chở bộ binh E4. |
+| **10** | Lệnh Kiềm Chế & Chiếc Chốt An Toàn (1976) | **Bác Đặng Viết Thọ** (CCB Công an nhân dân vũ trang Tây Ninh) | Kênh: *Hồi ức Lính chiến*<br>Video: "Những ngày cắn răng giữ mốc biên giới Tây Ninh 1976" | Chi tiết: Cấp chỉ huy đè chặt nắp khóa nòng súng AK, bắt lính trẻ nuốt cục tức vào bụng khi thấy đối phương nhổ mốc trong đêm mưa. |
+| **11** | Đấu Trí Trong Rừng Khộp - Dấu Dép Đúc (1977) | **Bác Nguyễn Văn Hùng** (CCB Đại đội 20 Trinh sát, E2, F9) | Kênh: *Ký ức Người lính*<br>Video: "Những đêm luồn sâu giáp mặt lính áo đen ở Lộc Ninh" | Chi tiết: Lần theo dấu dép cao su đúc nguyên khối và nhánh cây bị bẻ gập để đọc vị hướng xâm lấn. |
+| **12** | Chốt Gò Nổi Giữa Mùa Nước Ngập (1977) | **Bác Lê Minh Cảnh** (CCB Trung đoàn 1, Sư đoàn 330) | Kênh: *Chuyện Kể Người Lính*<br>Video: "Mùa nước nổi ngâm mình giữ gò đất biên cương" | Chi tiết: 3 người lính ngâm nước 12 tiếng, chia nhau từng giọt nước mưa hứng từ mảnh nilon tăng bạt. |
+| **13** | Đêm Xuồng Ba Lá Rẽ Bèo Tiếp Tế (1977) | **Cô Nguyễn Thị Mai** (Nguyên nữ du kích huyện An Phú) | Kênh: *Ký ức Chiến trường Tây Nam*<br>Video: "Những chuyến xuồng ba lá chở đạn trong đêm" | Chi tiết: Lấy giẻ mềm bọc quanh mái chèo để khua nước không tạo tiếng động qua mặt tàu tuần đối phương. |
+| **14** | Đêm Pháo Kích Bất Ngờ 30/4/1977 | **Bác Trần Văn Thành** (CCB Đồn Biên phòng Phú Hội) | Kênh: *Lịch sử & Nhân chứng*<br>Video: "Đêm 30/4/1977 lửa cháy rực trời bờ Vĩnh Tế" | Chi tiết: Quân số mỏng bị bao vây bốn bề, đánh dấu viên đạn cuối cùng cho bản thân trước khi đẩy lùi 4 đợt tấn công. |
 
 ---
 
@@ -29,24 +30,26 @@
 
 ---
 
-#### 🌟 MẪU DESCRIPTION TẬP 00: "TIẾNG SÚNG LẠ Ở BÃI DƯƠNG PHÚ QUỐC (ĐÊM 03/5/1975)"
+#### 🌟 MẪU DESCRIPTION TẬP 01: "TIẾNG SÚNG LẠ Ở BÃI DƯƠNG PHÚ QUỐC (ĐÊM 03/5/1975)"
 
 ```text
-"Cờ hòa bình vừa treo 3 ngày... Tiếng sóng biển bỗng vang lên tiếng nạp đạn AK lạ!"
+"Non sông vừa thống nhất 3 ngày... Biển Phú Quốc bỗng dậy sóng vì tiếng súng lạ!"
 
-📌 BỐI CẢNH LỊCH SỬ:
-Đêm 03 rạng sáng 04/5/1975 – Chỉ 3 ngày sau ngày giải phóng 30/4, cờ đỏ sao vàng vừa bay rực rỡ khắp đảo Phú Quốc thì bất ngờ 1 trung đoàn Khmer Đỏ (tàu chiến, tàu há mồm ngoài khơi Bãi Dương) bắt 4 thuyền chài ép 11 ngư dân chở quân vào bờ cát rồi ra tay tàn độc khiến 9 người ngã xuống. Hai ngư dân mưu trí quật ngã tên áp tải bơi thoát về báo tin. Quân và dân Phú Quốc cùng các sĩ quan pháo binh chế độ cũ đã đồng lòng lập trận địa cối Vũng Bầu chốt chặn, đập tan mưu đồ đánh chiếm đảo Phú Quốc của Khmer Đỏ.
+📌 BỐI CẢNH LỊCH SỬ CHÍNH XÁC:
+Đêm 03 rạng sáng 04/5/1975 – Chỉ 3 ngày sau ngày non sông toàn thắng 30/4/1975, cờ hòa bình vừa tung bay rực rỡ khắp đảo ngọc Phú Quốc thì vùng biển phía Bắc đảo bỗng vang lên tiếng súng lạ. Một lực lượng quân Khmer Đỏ từ các tàu vận tải vũ trang đậu ngoài khơi Bãi Dương đã khống chế các ghe chài của ngư dân địa phương, mưu toan bí mật đổ bộ xâm chiếm đảo. 
 
-🎙️ NGUỒN CÂU CHUYỆN & LỜI TRI ÂN:
-Kịch bản phim ngắn hoạt hình được phỏng tác dựa trên câu chuyện do Cựu chiến binh ĐÀO HỮU PHƯỚC (chú Năm Lãnh, nguyên Chỉ huy trưởng phân đội Pháo binh huyện Phú Quốc năm 1975) trực tiếp chia sẻ trong video tư liệu thực địa "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" trên kênh YouTube "Tung Tăng Khắp Miền" (https://youtu.be/3Toqqe42Kfg).
-(Các nhân vật trong phim là hình tượng nghệ thuật đại diện cho tinh thần cảnh giác của người lính giữ biển đảo Tổ quốc).
+Bằng sự mưu trí phi thường, hai ngư dân ông Năm Thối và ông Kế đã dũng cảm dùng cần lái thuyền quật ngã tên lính áp tải, lặn ngụp dưới làn đạn đêm bơi thoát vào bờ, chạy thục mạng hàng chục cây số đường rừng về cấp báo kịp thời cho Ủy ban Quân quản huyện Phú Quốc. Lực lượng vũ trang huyện đội đã khẩn cấp điều động khẩu đội cối 82mm chốt chặn Vũng Bầu, mở đầu cho cuộc đấu trí kiên cường bảo vệ trọn vẹn chủ quyền đảo ngọc.
 
-Kính gửi lời cảm ơn và lòng biết ơn chân thành nhất tới Bác Đào Hữu Phước cùng các cựu chiến binh, nhân dân đảo ngọc Phú Quốc và kênh YouTube "Tung Tăng Khắp Miền" đã ghi lại tư liệu lịch sử thực địa vô giá này! Tưởng niệm 9 ngư dân Phú Quốc đã ngã xuống trước họng súng quân Khmer Đỏ tại Bãi Dương đêm 03/5/1975.
+🎙️ NGUỒN TƯ LIỆU THỰC ĐỊA & LỜI TRI ÂN:
+Kịch bản tập phim được xây dựng dựa trên tư liệu điều tra thực địa và hồi ức của nhân chứng sống: Cựu chiến binh ĐÀO HỮU PHƯỚC (nguyên Chỉ huy trưởng phân đội Pháo binh huyện đội Phú Quốc năm 1975) trong video "Nơi Khơ me Đỏ đổ bộ âm mưu chiếm đảo Phú Quốc" phát hành trên kênh YouTube "Tung Tăng Khắp Miền" (https://youtu.be/3Toqqe42Kfg).
+(Các chi tiết nghệ thuật được chuyển thể chuẩn mực theo phương pháp Lịch sử vi mô nhằm tôn vinh sự mưu trí của nhân dân và ý chí kiên cường của người lính giữ đảo).
+
+Kính cẩn tưởng niệm các đồng bào ngư dân Phú Quốc đã ngã xuống trong đêm biến cố; gửi lời tri ân sâu sắc tới Bác Đào Hữu Phước cùng các thế hệ quân dân bảo vệ đảo và kênh YouTube "Tung Tăng Khắp Miền" đã lưu giữ tư liệu quý giá này!
 
 --------------------
-📜 Dự án hoạt hình tư liệu độc lập: Border War SW 779
+📜 Dự án hoạt hình vi mô độc lập: Border War SW 779
 Tuân thủ Luật An ninh mạng và tôn vinh truyền thống yêu nước của dân tộc Việt Nam.
-#PhuQuoc1975 #BienDaoQueHuong #ChienTranhBienGioiTayNam #KyUcChiTranh #HoiUcCCB #Shorts
+#PhuQuoc1975 #BaiDuongPhuQuoc #ChienTranhBienGioiTayNam #BorderWarSW779 #Shorts
 ```
 
 ---

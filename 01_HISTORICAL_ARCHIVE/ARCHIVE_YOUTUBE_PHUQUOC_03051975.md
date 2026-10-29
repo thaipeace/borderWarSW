@@ -81,12 +81,21 @@
 
 ---
 
-### IV. GIÁ TRỊ VÀ HƯỚNG DẪN ỨNG DỤNG CHO DỰ ÁN "BORDER WAR SW 779"
-1. **Giải quyết triệt để rủi ro nhân thân & nguồn tư liệu**:
-   - Thay thế toàn bộ tên nhân chứng giả định/ước lệ bằng nhân chứng sống có thật: **Bác Đào Hữu Phước** (nguyên Chỉ huy Pháo binh huyện Phú Quốc) và nguồn video thực địa chính danh của kênh **Tung Tăng Khắp Miền**.
-2. **Nâng tầm kịch bản mở màn (Episode 00 / Tập 1.1)**:
-   - Tận dụng 3 chi tiết "kim cương":
-     + Sự mưu trí của 2 ngư dân Năm Thối & Kế dùng cần lái ghe đánh trả giặc trong đêm, bơi thoát về báo tin.
-     + Trận địa cối 81/82 Vũng Bầu khống chế bãi cát kẹp đầm lầy, cùng tiếng loa tiếng Khmer đanh thép.
-     + Lời khẳng khái đậm tinh thần hòa hợp dân tộc của sĩ quan pháo binh: *"Các anh yên tâm, chúng tôi bắn không trật một viên nào!"*.
+### IV. PHÂN TẦNG TƯ LIỆU & HƯỚNG DẪN ỨNG DỤNG CHO DỰ ÁN DÀI HẠN (3 - 4 NĂM)
+
+1. **Phân loại độ tin cậy theo quy chuẩn Oral History Harness**:
+   - **Tầng 1 (Trực tiếp chứng kiến - Độ tin cậy cao nhất)**:
+     + Lời kể của bác Đào Hữu Phước về việc nhận lệnh từ Huyện đội Phú Quốc và Tỉnh đội Kiên Giang điều động 4 khẩu cối 81/82mm lập trận địa chốt chặn tại Vũng Bầu - Bãi Dương;
+     + Việc quản lý trực tiếp hơn 100 tù binh Khmer Đỏ (từ Thổ Chu giải về) tại Khu 1 - Trại giam Phú Quốc từ tháng 5 đến tháng 10/1975.
+   - **Tầng 2 (Nhân chứng gián tiếp & Báo cáo tác chiến)**:
+     + Cuộc thoát hiểm của ông Năm Thối và ông Kế: Hai ngư dân trực tiếp kể lại với Ủy ban Quân quản huyện và người dân Cửa Cạn sau khi bơi thoát về Dương Đông;
+     + Chi tiết sĩ quan pháo binh chế độ cũ sẵn sàng cùng giữ đảo: Do đồng chí Chín (cán bộ quân quản) trực tiếp làm việc, tiếp xúc và truyền đạt lại.
+   - **Tầng 3 (Con số ước lượng chiến trường)**:
+     + "1 trung đoàn quân Khmer Đỏ": Đây là ước đoán từ kích thước và số lượng tàu thuyền đậu ngoài khơi (tàu đổ bộ, xà lan vũ trang); sử liệu chính thống ghi nhận đây là các toán quân đột kích, quấy rối lãnh thổ. Trong kịch bản phim vi mô 58s, miêu tả khách quan là "lực lượng quân Khmer Đỏ từ các tàu vũ trang lạ ngoài khơi Bãi Dương", không khẳng định một con số tuyệt đối chưa được đối chiếu văn bản quân báo.
+
+2. **Định vị trong Dự án 3 - 4 năm**:
+   - Xác lập **TẬP 01** chính thức mở đầu toàn bộ dự án: *Tiếng súng lạ ở Bãi Dương (Phú Quốc, Đêm 03/5/1975)*.
+   - Tránh tâm lý nóng vội nhồi nhét toàn bộ các sự kiện 4 ngày vào 58 giây; thay vào đó, Tập 01 tập trung vào lát cắt vi mô: Sự mưu trí của nhân dân và tiếng chuông cảnh báo đầu tiên đánh thức bờ cõi giữa đêm hòa bình đầu tiên.
+   - Các lát cắt tiếp theo (Thế trận chốt chặn Vũng Bầu, Tinh thần đại đoàn kết, Sự kiện Thổ Chu 10/5/1975, Trận tái chiếm 23-27/5/1975) được phân bổ theo chuỗi tập tiếp theo đúng lộ trình biên niên sử vi mô.
+
 

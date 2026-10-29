@@ -1,0 +1,75 @@
+{
+  "episode_id": "EP01",
+  "gate": "GATE_2_TTS_VOICE_QA",
+  "engine": "gemini-2.5-flash-preview-tts + FFmpeg Character Mastering",
+  "sample_rate_hz": 48000,
+  "target_peak_dbfs": -3.0,
+  "lines": [
+    {
+      "line_id": "line1_beat3_nguoi_chai_tre",
+      "beat_id": 3,
+      "speaker": "nguoi_chai_tre",
+      "character_label": "Người chài trẻ (24 tuổi - Nam Bộ, thở dốc, hối hả cấp báo trong đêm)",
+      "voice_engine": "gemini-2.5-flash-preview-tts (Puck)",
+      "text": "Tàu lạ đổ bộ bãi cát... quân đông lắm, báo gấp!",
+      "timeline_start_sec": 22.5,
+      "timeline_end_sec": 25.926,
+      "timeline_window_sec": 4.8,
+      "fits_timeline_window": true,
+      "wav_path": "factory/materialAndDraft/Chapter1/audio/tts/line1_beat3_nguoi_chai_tre.wav",
+      "mp3_path": "factory/materialAndDraft/Chapter1/audio/tts/line1_beat3_nguoi_chai_tre.mp3",
+      "metrics": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration_sec": 3.426,
+        "peak_dbfs": -3.0,
+        "rms_dbfs": -18.74
+      },
+      "qa_status": "PASS"
+    },
+    {
+      "line_id": "line2_beat4_nguoi_truc_dem",
+      "beat_id": 4,
+      "speaker": "nguoi_truc_dem",
+      "character_label": "Chỉ huy bộ đội / Người trực đêm (29 tuổi - Đanh gọn, chủ động, uy lực)",
+      "voice_engine": "gemini-2.5-flash-preview-tts (Fenrir)",
+      "text": "Chúng hết đường rồi!",
+      "timeline_start_sec": 41.0,
+      "timeline_end_sec": 43.206,
+      "timeline_window_sec": 3.0,
+      "fits_timeline_window": true,
+      "wav_path": "factory/materialAndDraft/Chapter1/audio/tts/line2_beat4_nguoi_truc_dem.wav",
+      "mp3_path": "factory/materialAndDraft/Chapter1/audio/tts/line2_beat4_nguoi_truc_dem.mp3",
+      "metrics": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration_sec": 2.206,
+        "peak_dbfs": -3.0,
+        "rms_dbfs": -19.19
+      },
+      "qa_status": "PASS"
+    },
+    {
+      "line_id": "line3_beat5_lao_chai",
+      "beat_id": 5,
+      "speaker": "lao_chai",
+      "character_label": "Lão chài (55 tuổi - Nam Bộ trầm ấm, từng trải, nhẹ nhõm lúc bình minh)",
+      "voice_engine": "gemini-2.5-flash-preview-tts (Charon)",
+      "text": "Hòn đảo của mình... sóng lại êm rồi.",
+      "timeline_start_sec": 50.5,
+      "timeline_end_sec": 54.276,
+      "timeline_window_sec": 5.0,
+      "fits_timeline_window": true,
+      "wav_path": "factory/materialAndDraft/Chapter1/audio/tts/line3_beat5_lao_chai.wav",
+      "mp3_path": "factory/materialAndDraft/Chapter1/audio/tts/line3_beat5_lao_chai.mp3",
+      "metrics": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration_sec": 3.776,
+        "peak_dbfs": -3.0,
+        "rms_dbfs": -18.63
+      },
+      "qa_status": "PASS"
+    }
+  ]
+}

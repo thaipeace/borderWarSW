@@ -1,0 +1,84 @@
+{
+  "episode_id": "EP01",
+  "gate": "GATE_5_FINAL_RENDER_AND_8POINT_QA",
+  "staging_mp4_path": "factory/staging/Chapter1/EP01_DemDauThang5_PhuQuoc_v6_60s_staging.mp4",
+  "file_size_mb": 36.35,
+  "stream_probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "60.000000",
+      "size": "38120128",
+      "bit_rate": "5082683"
+    }
+  },
+  "all_8_points_passed": true,
+  "checklist": [
+    {
+      "id": 1,
+      "name": "Ẩn danh nhân thân (Identity Rule)",
+      "status": "PASS",
+      "evidence": "0 tên thật / phiên hiệu đơn vị chưa xác minh trong kịch bản, giọng đọc và phụ đề (chỉ dùng 3 hình tượng: Lão chài, Người chài trẻ, Người trực đêm)."
+    },
+    {
+      "id": 2,
+      "name": "Không bản đồ (Zero Map Policy)",
+      "status": "PASS",
+      "evidence": "0 file .svg bản đồ trong assets/ và staging/; Nhịp 4 dùng góc máy điện ảnh từ trên cao (Cinematic High-Angle Shot)."
+    },
+    {
+      "id": 3,
+      "name": "Sạch từ khóa thuật toán (ASR & OCR Safety)",
+      "status": "PASS",
+      "evidence": "Đã quét 11 từ khóa nhạy cảm (giết, chết, chém, máu, sát hại...): phát hiện 0 từ vi phạm."
+    },
+    {
+      "id": 4,
+      "name": "Không hình ảnh máu me (Visual Safety)",
+      "status": "PASS",
+      "evidence": "5/5 phân cảnh hoàn toàn không có máu, vết thương hở hay bạo lực trực diện."
+    },
+    {
+      "id": 5,
+      "name": "Chuẩn mực chính trị ('3 Đúng - 3 Không')",
+      "status": "PASS",
+      "evidence": "Tôn vinh sự mưu trí của ngư dân và thế trận phòng thủ chủ động của bộ đội giữ đảo; không kích động hằn thù dân tộc."
+    },
+    {
+      "id": 6,
+      "name": "Chất lượng âm thanh & Khớp khung hình (Audio Mix & Sync)",
+      "status": "PASS",
+      "evidence": "Master 60.0s đạt Peak -1.02 dBFS, RMS -20.12 dBFS; tiếng BỐP (11.20s), ÙM (12.50s), đập cửa (21.0s), kẻng (26.5s) khớp chính xác chuyển động hình."
+    },
+    {
+      "id": 7,
+      "name": "Chuẩn vùng hiển thị (Safe Zone & Disclaimer)",
+      "status": "PASS",
+      "evidence": "7/7 tấm đồ họa chữ nằm gọn trong vùng X=[80..920], Y<=1390 (<1420); có đủ bảng Disclaimer (57.0–60.0s), logo VCH (trên-trái) và watermark VẠN CHUYỆN (dưới-phải)."
+    },
+    {
+      "id": 8,
+      "name": "Nhịp điệu 60 giây & Text Hook mở đầu (Pacing & Hook)",
+      "status": "PASS",
+      "evidence": "Thời lượng chuẩn 60.00s (1.800 frames @ 30fps); Text Hook hiển thị rõ từ giây 0.6–6.5; kết thúc êm với hòa tấu Đàn Bầu & Sáo Trúc."
+    }
+  ]
+}

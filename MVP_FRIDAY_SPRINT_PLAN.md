@@ -1,57 +1,66 @@
-# KẾ HOẠCH HÀNH ĐỘNG SPRINT: MỤC TIÊU BẢN MVP THỨ SÁU
+# KẾ HOẠCH HÀNH ĐỘNG SPRINT: MỤC TIÊU BẢN MVP THỨ SÁU (CHUẨN v6.0)
 ## LỘ TRÌNH 3 NGÀY TỪ TẠO HÌNH NHÂN VẬT ĐẾN RENDER THÀNH PHẨM TRÊN HAIZFLOW
+*Cập nhật: 29/10/2026 | Đồng bộ theo kịch bản `EP01_DemDauThang5_PhuQuoc_v6_60s.md` (60s – Thế Kẹt Độc Đạo, Zero Map Policy)*
 
 ---
 
 ### I. MỤC TIÊU CỐT LÕI (FRIDAY MVP GOAL)
 
 * **Hạn chót**: Thứ Sáu (30/10/2026).
-* **Sản phẩm bàn giao**: 01 Video Short 60s hoàn chỉnh chuẩn điện ảnh hoạt hình (9:16 - 1080x1920).
-* **Tập phim thực hiện**: **Tập 00: Tiếng Súng Lạ Ở Bãi Dài Phú Quốc (Đêm 03/5/1975)** (hoặc Tập 01: Lệnh Kiềm Chế 1976).
-* **Thành phần video**:
-  1. Hình ảnh hoạt hình 2D Anime Semi-realistic (nhân vật diễn xuất, cử chỉ, biểu cảm).
-  2. Mini-Map Widget bản đồ Việt Nam góc phải trên có radar nhấp nháy tại Phú Quốc.
-  3. Lồng tiếng đối thoại 2 nhân vật (Anh Cả Thạch & Út Hưng) qua TTS Vieneu (ngắt nghỉ cảm xúc).
-  4. Hiệu ứng âm thanh Foley (tiếng sóng, tiếng súng đanh thép, tiếng lên đạn).
-  5. Phụ đề tiếng Việt chuẩn vùng an toàn (Safe Zone).
-  6. Mẫu Description & Tri ân sẵn sàng xuất bản.
+* **Sản phẩm bàn giao**: 01 Video Short 60s hoàn chỉnh chuẩn điện ảnh hoạt hình phóng tác vi mô (9:16 - 1080x1920).
+* **Tập phim thực hiện**: **Tập 01 – Đêm Đầu Tháng 5 Ở Phú Quốc (v6 – 60 giây: Thế Kẹt Độc Đạo)** (`EP01_DemDauThang5_PhuQuoc_v6_60s.md`).
+* **Thành phần video chuẩn v6.0**:
+  1. **5 phân cảnh hoạt hình bán tả thực (Semi-realistic Graphic Novel / Painterly Cinematic)** đã render tại `factory/staging/Chapter1/assets/` (`scene1_boat_night.jpg` → `scene5_sunrise_peace.jpg`).
+  2. **Chính sách Zero Map Policy (Không bản đồ)**: Tuyệt đối không gắn bất kỳ widget hay hình ảnh bản đồ nào; sử dụng góc máy điện ảnh từ trên cao (`Cinematic High-Angle Shot`) ở Nhịp 4 để thể hiện thế kẹt địa hình tự nhiên (biển sâu – dải cát hẹp – đầm lầy ngập mặn – chốt chặn độc đạo).
+  3. **Lồng tiếng 3 nhân vật hình tượng ẩn danh (3 câu thoại siêu ngắn ~15 từ)**:
+     - *Người chài trẻ* (Nhịp 3, giọng thở dốc gấp gáp): `"Tàu lạ đổ bộ bãi cát... quân đông lắm, báo gấp!"`
+     - *Người trực đêm* (Nhịp 4, giọng đanh gọn dứt khoát): `"Chúng kẹt rồi!"`
+     - *Lão chài* (Nhịp 5, giọng trầm ấm nhẹ nhõm): `"Hòn đảo của mình... sóng lại êm rồi."`
+  4. **Hiệu ứng âm thanh Foley / SFX & BGM**: Tiếng máy ghe *tạch... tạch...*, sóng vỗ, cú quật cần lái *BỐP!*, tiếng nhảy xuống biển *ÙM!*, tiếng súng nổ rát rạt xa dần, tiếng đập cửa *Cộc! Cộc! Cộc!*, tiếng kẻng báo động, tiếng bùn lầy, tiếng sóng biển êm dịu và giai điệu sáo trúc / đàn bầu nhẹ nhàng khép lại.
+  5. **Text Overlay & Phụ đề vùng an toàn (Safe Zone 25% dưới)**:
+     - Giây `01–03`: *"Đêm đầu tháng 5/1975"*
+     - Phụ đề khớp 3 câu thoại ở Nhịp 3, 4, 5.
+     - Giây `57–60` (Disclaimer bắt buộc): *"Phóng tác từ lời kể của một cựu chiến binh. Nhân vật và tình tiết đã được hư cấu hóa."*
+  6. **Mẫu Description & Bình luận ghim chuẩn phóng tác**: Ghi rõ tác phẩm hoạt hình phóng tác hư cấu hóa nghệ thuật, khai báo nội dung có hỗ trợ bởi công cụ AI, không khẳng định chi tiết sự kiện hay nêu tên thật nhận diện cá nhân.
 
 ---
 
 ### II. TIẾN ĐỘ THỰC HIỆN THEO TỪNG NGÀY
 
 ```
-    THỨ TƯ (MAI)                     THỨ NĂM                         THỨ SÁU (DEADLINE)
-┌───────────────────────┐   ┌───────────────────────────┐   ┌───────────────────────────┐
-│ CỐ ĐỊNH NHÂN VẬT      │   │ SẢN XUẤT AUDIO & VISUAL   │   │ HAIZFLOW RENDER & QA      │
-│ • Model Sheet Anh Cả  │──>│ • Sinh 5 Scene Storyboard │──>│ • Ghép Timeline 60s      │
-│ • Model Sheet Út Hưng │   │ • Tạo TTS Vieneu 2 giọng  │   │ • Gắn Mini-Map góc phải   │
-│ • Chốt Visual Prompts │   │ • Gắn SFX tiếng động      │   │ • Xuất MP4 1080x1920      │
-└───────────────────────┘   └───────────────────────────┘   └───────────────────────────┘
+     THỨ TƯ (ĐÃ XONG ✅)              THỨ NĂM (HÔM NAY ⏳)               THỨ SÁU (DEADLINE 🎯)
+┌───────────────────────────┐   ┌───────────────────────────────┐   ┌───────────────────────────────┐
+│ HÌNH TƯỢNG & KỊCH BẢN v6  │   │ VISUAL QA & SẢN XUẤT AUDIO    │   │ HAIZFLOW RENDER & QA          │
+│ • Chuẩn hóa Archetypes    │──>│ • Render 5 Scene 9:16 (XONG)  │──>│ • Ghép Timeline 60s (5 nhịp)  │
+│   (Lão chài, Anh chài...) │   │ • Rà soát Visual QA Scene 4,5 │   │ • Áp dụng Zero Map Policy     │
+│ • Khóa kịch bản v6 (60s)  │   │ • Tạo 3 câu TTS + SFX 5 nhịp  │   │ • Xuất MP4 1080x1920 & Kiểm QA│
+└───────────────────────────┘   └───────────────────────────────┘   └───────────────────────────────┘
 ```
 
-#### 📅 NGÀY 1: THỨ TƯ – THIẾT KẾ & ĐỒNG BỘ NHÂN VẬT (CHARACTER DESIGN)
-- [ ] Thiết lập Prompt Model Sheet cho **Anh Cả Thạch** (30t, nghiêm nghị, dạn dày sương gió, áo Tô Châu nón cối).
-- [ ] Thiết lập Prompt Model Sheet cho **Út Hưng** (18-19t, thư sinh, trong sáng, lính mới).
-- [ ] Khóa cố định nét mặt, kiểu tóc và trang phục để đảm bảo nhân vật không bị biến dạng giữa các cảnh (Character Visual Consistency).
-- [ ] Lưu trữ profile ảnh mẫu vào `02_CHARACTER_PROFILES/`.
+#### 📅 NGÀY 1: THỨ TƯ – CHUẨN HÓA HÌNH TƯỢNG NHÂN VẬT & KỊCH BẢN v6.0 (ĐÃ HOÀN THÀNH ✅)
+- [x] Chuyển đổi từ nhân vật tên thật sang bộ **Hình mẫu điển hình thuần Việt (Archetypes)** trong `02_CHARACTER_PROFILES/CORE_CHARACTERS.md`: *Lão chài*, *Người chài trẻ*, *Người trực đêm*, *Lính áo đen*.
+- [x] Khóa phong cách mỹ thuật **Semi-realistic Graphic Novel / Painterly Cinematic** (tránh lỗi mắt to kiểu Anime Nhật Bản, chuẩn hóa áo bà ba, khăn rằn, nón lá, ghe máy vỏ gỗ Nam Bộ).
+- [x] Hoàn thiện kịch bản `EP01_DemDauThang5_PhuQuoc_v6_60s.md` (60 giây, 5 nhịp, 3 câu thoại ngắn, áp dụng **Zero Map Policy**).
 
-#### 📅 NGÀY 2: THỨ NĂM – SẢN XUẤT ASSET HÌNH ẢNH & THOẠI TRÊN HAIZFLOW
-- [ ] Sinh 5 khung hình chính (Scene 1 đến Scene 5) theo kịch bản Tập 00:
-  - Cảnh 1: Bãi cát Bãi Dài đêm trăng, lá cờ trên nóc đồn, bóng xuồng máy rẽ sóng.
-  - Cảnh 2: Anh Cả soi ống nhòm thấy 4 bóng lính áo đen nhảy xuống mép nước.
-  - Cảnh 3: Bắn pháo hiệu cảnh cáo và nổ súng đánh bật toán quân xâm lấn.
-  - Cảnh 4: Nhặt lại bức thư nhà lấm cát, ánh mắt nhìn ra biển đêm.
-  - Cảnh 5: Bình minh rực sáng trên đỉnh đảo ngọc Phú Quốc.
-- [ ] Tạo file audio đối thoại qua engine TTS Vieneu của HaizFlow:
-  - Giọng Anh Cả Thạch: Bắc / Bắc Trung Bộ đĩnh đạc, ấm, uy lực chỉ huy.
-  - Giọng Út Hưng: Sài Gòn trẻ, trong, xúc động.
-- [ ] Chuẩn bị tiếng động SFX (sóng biển vỗ rì rào, tiếng lách cách lên đạn, tràng đạn AK).
+#### 📅 NGÀY 2: THỨ NĂM – RENDER 5 PHÂN CẢNH, VISUAL QA & SẢN XUẤT AUDIO
+- [x] **Render 5 khung hình chính (Nhịp 1 đến Nhịp 5)** lưu tại `factory/staging/Chapter1/assets/`:
+  - [x] **Nhịp 1 (00–10s)** – `scene1_boat_night.jpg`: Ghe máy rẽ sóng biển đêm, bóng lính lạ cầm súng AK đứng mũi ghe, hai người dân chài liếc mắt ra hiệu ngầm.
+  - [x] **Nhịp 2 (10–20s)** – `scene2_action_tiller.jpg`: Cú quật cần lái gỗ *BỐP!* và pha lao mình nhảy xuống biển đêm thoát hiểm.
+  - [x] **Nhịp 3 (20–30s)** – `scene3_alert_cabin.jpg`: Hai ngư dân ướt sũng đập cửa trạm gác báo động dưới ánh đèn bão của người trực đêm.
+  - [x] **Nhịp 4 (30–46s)** – `scene4_bottleneck_swamp.jpg`: Góc máy cao (`Cinematic High-Angle Shot`, không dùng bản đồ) khắc họa thế kẹt giữa biển sâu, dải cát hẹp, đầm lầy ngập mặn và chốt chặn độc đạo.
+  - [x] **Nhịp 5 (46–60s)** – `scene5_sunrise_peace.jpg`: Bình minh trên đảo ngọc, bóng tàu rút dần ngoài khơi, hai ngư dân đứng dưới lá cờ Tổ quốc tung bay.
+- [x] **Rà soát thị giác (Visual QA – GATE 1)** trước khi đưa vào dựng:
+  - Đã sao lưu bản gốc vào `assets/originals_backup/`, nâng cấp `scene4_bottleneck_swamp.jpg` (giữ nguyên 3 nhân vật key giữa bãi cát + bổ sung lính áo đen lún bùn rễ đước bên phải) và xoay đuôi tàu hướng về phía bờ rút ra khơi trong `scene5_sunrise_peace.jpg`. Đã xuất [`factory/production/Chapter1/motion_plan.json`](file:///c:/projects/borderWarSW779/factory/production/Chapter1/motion_plan.json).
+- [ ] **Tạo 3 file audio thoại qua engine TTS Vieneu**:
+  - *Người chài trẻ*: `"Tàu lạ đổ bộ bãi cát... quân đông lắm, báo gấp!"`
+  - *Người trực đêm*: `"Chúng kẹt rồi!"`
+  - *Lão chài*: `"Hòn đảo của mình... sóng lại êm rồi."`
+- [ ] **Chuẩn bị bộ âm thanh Foley / SFX & Nhạc nền**: Máy ghe nổ *tạch... tạch...*, sóng vỗ, gậy gỗ đập *BỐP!*, nhảy nước *ÙM!*, súng nổ xa dần, đập cửa gỗ, kẻng báo động, tiếng lội bùn, tiếng sóng êm & nhạc sáo trúc/đàn bầu kết tập.
 
-#### 📅 NGÀY 3: THỨ SÁU – GHÉP TIMELINE, GẮN MINI-MAP & RENDER HOÀN THIỆN
-- [ ] Nạp kịch bản vào cấu hình dự án HaizFlow (`05_HAIZFLOW_PROJECTS/`).
-- [ ] Gắn lớp overlay `mini_map_ep00_phuquoc.svg` vào góc trên bên phải (`X=860, Y=70`).
-- [ ] Đồng bộ nhịp thoại với phụ đề tự động (Subturn synchronization).
-- [ ] Chạy lệnh Render video dọc chuẩn 1080 x 1920 MP4.
-- [ ] Thực hiện kiểm tra 6 tiêu chí Harness Checklist (chính trị, âm thanh, pháp lý, chính tả).
-- [ ] Lưu video hoàn thiện vào `06_RENDERED_SHORTS/` sẵn sàng phát hành cuối tuần!
+#### 📅 NGÀY 3: THỨ SÁU – GHÉP TIMELINE 60S (ZERO MAP), CHÈN TEXT & RENDER MP4
+- [ ] Khởi tạo cấu hình dự án HaizFlow (`05_HAIZFLOW_PROJECTS/` hoặc `factory/production/`).
+- [ ] Áp dụng chuyển động camera (Ken Burns pan/zoom/shake hoặc Image-to-Video) cho 5 phân cảnh khớp tổng thời lượng **60 giây** (`10s + 10s + 10s + 16s + 14s`).
+- [ ] **Thực thi Zero Map Policy**: Đảm bảo không gắn `mini_map_ep01_phuquoc.svg` hay bất kỳ đồ họa bản đồ nào lên khung hình.
+- [ ] Chèn Text Overlay đầu (`"Đêm đầu tháng 5/1975"`), đồng bộ phụ đề 3 câu thoại và dòng chữ Disclaimer cuối phim (giây `57–60`) trong vùng Safe Zone.
+- [ ] Chạy lệnh Render video dọc chuẩn `1080 x 1920` MP4 (60 giây) và lưu vào `06_RENDERED_SHORTS/`.
+- [ ] Kiểm tra lần cuối theo bảng **QA Harness Checklist** & **Sổ Ràng Buộc Rủi Ro** trước khi xuất bản!
